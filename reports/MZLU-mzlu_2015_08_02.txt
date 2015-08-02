@@ -1,0 +1,308 @@
+Report for Institution Code MZLU, Resource mzlu
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 232
+Number of records retrieved in searches: 1371
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 59
+	Country: Canada ; Times: 10
+	Country: Chile ; Times: 3
+	Country: Cyprus ; Times: 4
+	Country: France ; Times: 2
+	Country: India ; Times: 4
+	Country: Indonesia ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 2
+	Country: South Africa ; Times: 4
+	Country: Sweden ; Times: 3
+	Country: Switzerland ; Times: 16
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 107
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 19
+	Date: 2015-07-02 ; Times: 5
+	Date: 2015-07-03 ; Times: 5
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-06 ; Times: 3
+	Date: 2015-07-07 ; Times: 9
+	Date: 2015-07-08 ; Times: 2
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-11 ; Times: 2
+	Date: 2015-07-12 ; Times: 2
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 3
+	Date: 2015-07-17 ; Times: 4
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 2
+	Date: 2015-07-21 ; Times: 7
+	Date: 2015-07-22 ; Times: 10
+	Date: 2015-07-23 ; Times: 11
+	Date: 2015-07-24 ; Times: 10
+	Date: 2015-07-25 ; Times: 25
+	Date: 2015-07-26 ; Times: 4
+	Date: 2015-07-27 ; Times: 25
+	Date: 2015-07-28 ; Times: 7
+	Date: 2015-07-29 ; Times: 43
+	Date: 2015-07-30 ; Times: 25
+	Date: 2015-07-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:derbianus genus:Caluromys tissue:1" ; Times: 1
+	Query: "notoryctes type:specimen (skeleton)" ; Times: 1
+	Query: "pinguinus" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM NOT YPM NOT SBMNH NOT ANSP NOT NYSM NOT AMNH NOT CAS NOT FMNH NOT SDNHM NOT CUMV)" ; Times: 1
+	Query: "genus:Petromus" ; Times: 2
+	Query: "genus:Myrmecobius" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 3
+	Query: "strix nebulosa lappland" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Pilherodius pileatus type:specimen" ; Times: 1
+	Query: "Chlamydotis macqueenii type:specimen" ; Times: 1
+	Query: "diodon liturosus" ; Times: 1
+	Query: "Phocoenidae year >= 1978 year <= 2015 tissue:1" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "sterna dougallii" ; Times: 2
+	Query: "dasypeltis" ; Times: 4
+	Query: "Strix aluco" ; Times: 1
+	Query: "specificepithet:typhlops genus:Notoryctes" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "country:"bahamas" specificepithet:fuscus genus:eptesicus" ; Times: 1
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1910" ; Times: 1
+	Query: "Calyptura" ; Times: 1
+	Query: "specificepithet:cyanoventris genus:Tangara" ; Times: 5
+	Query: "fulvipes" ; Times: 1
+	Query: "genus:orycteropus" ; Times: 1
+	Query: "thylacinus cynocephalus" ; Times: 5
+	Query: "parablennius pilicornis" ; Times: 1
+	Query: "Human tissue:1" ; Times: 1
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 9
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "genus:Thylacinus" ; Times: 2
+	Query: "specificepithet:loricata genus:Compsothraupis" ; Times: 1
+	Query: "Dryocopus tissue:1" ; Times: 1
+	Query: "dermoptera type:specimen (skeleton)" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 5
+	Query: "crotalus vegrandis" ; Times: 2
+	Query: "Sphenodon punctatus" ; Times: 2
+	Query: "aythya nyroca" ; Times: 4
+	Query: "Pedioplanis undata" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "Eupleridae" ; Times: 1
+	Query: "stateprovince:"zanzibar" country:"tanzania" year >= 1950 year <= 1970" ; Times: 1
+	Query: "chrysochloridae type:specimen (skeleton)" ; Times: 1
+	Query: "Sphenodon" ; Times: 1
+	Query: "gonyosoma oxycephalum" ; Times: 1
+	Query: "Herpestidae year >= 1975 year <= 2015" ; Times: 2
+	Query: "egg "buteo lagopus"" ; Times: 2
+	Query: ""eirenis decemlineata"" ; Times: 1
+	Query: "BERUS" ; Times: 2
+	Query: "tupaia type:specimen (skeleton)" ; Times: 1
+	Query: "specificepithet:ruficapillus genus:Schistochlamys" ; Times: 1
+	Query: "specificepithet:rhinostoma genus:Simophis" ; Times: 3
+	Query: "dendrelaphis caudolineatus" ; Times: 2
+	Query: "crotalus triseriatus" ; Times: 1
+	Query: "Otus scops country:"India"" ; Times: 1
+	Query: "Melanotrochilus fuscus" ; Times: 49
+	Query: "Emberiza hortulana" ; Times: 1
+	Query: "Pedioplanis gaerdesi" ; Times: 1
+	Query: "Podarcis melisellensis year >= 1800 year <= 2013" ; Times: 1
+	Query: "Elapoidis" ; Times: 1
+	Query: "Gypohierax angolensis" ; Times: 1
+	Query: "dendrocopos tissue:1" ; Times: 1
+	Query: "hieraaetus pennatus" ; Times: 11
+	Query: "Simophis rhinostoma" ; Times: 2
+	Query: "candicans" ; Times: 2
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 3
+	Query: "Apus pallidus" ; Times: 1
+	Query: "dendrelaphis formosus" ; Times: 1
+	Query: "specificepithet:cristata genus:Proteles" ; Times: 10
+	Query: "Dinornithiformes" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 16
+	Query: "Chlamydotis undulata" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "potamorrhaphis petersi" ; Times: 1
+	Query: "Podiceps occipitalis" ; Times: 3
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "Pogoniulus bilineatus type:specimen year >= 1840 year <= 1860" ; Times: 4
+	Query: "bilineatum" ; Times: 2
+	Query: "specificepithet:rhinostoma genus:Simophis (preserved)" ; Times: 1
+	Query: "cannabina type:specimen (egg)" ; Times: 1
+	Query: "marmaronetta angustirostris" ; Times: 1
+	Query: "Alectrurus tricolor" ; Times: 1
+	Query: ""melanotrochilus fuscus"" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "Podarcis erhardii year >= 1800 year <= 2013" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 92 (out of 1084 download events in this period)
+Total number of records downloaded: 3153 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2322
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Kenya ; Times: 2
+	Country: Mexico ; Times: 17
+	Country: Netherlands ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 4
+	Date: 2015-07-02 ; Times: 5
+	Date: 2015-07-03 ; Times: 4
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-06 ; Times: 4
+	Date: 2015-07-07 ; Times: 1
+	Date: 2015-07-08 ; Times: 4
+	Date: 2015-07-09 ; Times: 1
+	Date: 2015-07-10 ; Times: 3
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-15 ; Times: 1
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-21 ; Times: 5
+	Date: 2015-07-22 ; Times: 24
+	Date: 2015-07-23 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-26 ; Times: 1
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 2
+	Date: 2015-07-30 ; Times: 5
+	Date: 2015-07-31 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "plethodon cinereus" ; Times: 1
+	Query: "bufonidae" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Liolaemus" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Hyla femoralis" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "VIPERA BERUS" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "elephantulus" ; Times: 1
+	Query: "Didelphis virginiana" ; Times: 1
+	Query: "cebus capucinus" ; Times: 1
+	Query: "adamanteus" ; Times: 1
+	Query: "Gekkonidae" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "dasypeltis" ; Times: 1
+	Query: "Tarentola mauritanica year >= 1900 year <= 2013" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Clemmys guttata" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Podarcis melisellensis year >= 1800 year <= 2013" ; Times: 1
+	Query: "Herpestes ichneumon" ; Times: 2
+	Query: "cingulatum" ; Times: 1
+	Query: "specificepithet:loricata genus:Compsothraupis" ; Times: 1
+	Query: "rhynchocyon" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "cricetomys" ; Times: 1
+	Query: "Chrysemys dorsalis" ; Times: 1
+	Query: "Ursus arctos" ; Times: 1
+	Query: "anaxyrus type:specimen" ; Times: 1
+	Query: "Apalone spinifera" ; Times: 1
+	Query: "petrodromus" ; Times: 1
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Gerrhosauridae" ; Times: 1
+	Query: "Deirochelys reticularia" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "Terrapene (carolina OR bauri OR major OR triunguis)" ; Times: 1
+	Query: "chiroptera" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "urocyon cinereoargenteus" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "chrysemys (belli OR picta OR marginata)" ; Times: 1
+	Query: "Malaclemys (terrapin OR centrata OR tequesta OR rhizophorarum OR macrospilota OR pileata OR litoralis )" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Terrapene carolina" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "specificepithet:ruficapillus genus:Schistochlamys" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Deirochelys (miaria OR chrysea OR reticularia)" ; Times: 1
+	Query: "thecadactylus rapicauda" ; Times: 1
+	Query: "Terrapene (ornata OR luteola)" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Kinosternon baurii" ; Times: 1
+	Query: "Apalone (mutica OR calvata)" ; Times: 1
+	Query: "crotalus viridis viridis" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "plethodon glutinosus" ; Times: 1
+	Query: "hemidactylium" ; Times: 1
+	Query: "Plethodon cinereus" ; Times: 1
+	Query: "Apalone ferox" ; Times: 1
+	Query: "hippopotamus amphibius" ; Times: 1
+	Query: "Hyla eximia" ; Times: 1
+	Query: "Trachemys (scripta OR elegans OR troosti)" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Cordylidae" ; Times: 1
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "Ecnomiohyla miotympanum" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "Sternotherus odoratus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Apalone mutica" ; Times: 1
+	Query: "Pedioplanis" ; Times: 1
+	Query: "Podarcis erhardii year >= 1800 year <= 2013" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 560
+Total number of records retrieved from searches: 3744
+Number of download events that retrieved data from the resource: 264
+Total number of records downloaded: 8021
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 560
+Total number of records retrieved from searches: 3744
+Number of download events that retrieved data from the resource: 264
+Total number of records downloaded: 8021
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
