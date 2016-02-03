@@ -1,0 +1,246 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 122
+Number of records retrieved in searches: 517
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Unknown ; Times: 8
+	Country: Turkey ; Times: 5
+	Country: Serbia ; Times: 4
+	Country: India ; Times: 2
+	Country: United States ; Times: 79
+	Country: Switzerland ; Times: 1
+	Country: Sweden ; Times: 8
+	Country: Peru ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Denmark ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 6
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 5
+	Date: 2015-12-01 ; Times: 3
+	Date: 2015-12-07 ; Times: 9
+	Date: 2015-12-06 ; Times: 4
+	Date: 2015-12-04 ; Times: 3
+	Date: 2015-12-21 ; Times: 3
+	Date: 2015-12-20 ; Times: 9
+	Date: 2015-12-23 ; Times: 2
+	Date: 2015-12-22 ; Times: 3
+	Date: 2015-12-25 ; Times: 4
+	Date: 2015-12-24 ; Times: 4
+	Date: 2015-12-27 ; Times: 5
+	Date: 2015-12-29 ; Times: 22
+	Date: 2015-12-28 ; Times: 4
+	Date: 2015-12-31 ; Times: 2
+	Date: 2015-12-14 ; Times: 3
+	Date: 2015-12-15 ; Times: 5
+	Date: 2015-12-30 ; Times: 1
+	Date: 2015-12-17 ; Times: 5
+	Date: 2015-12-11 ; Times: 15
+	Date: 2015-12-12 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Ambystoma specificepithet:mexicanum" ; Times: 1
+	Query: "Coccothraustes egg" ; Times: 1
+	Query: "Macrovipera schweizeri" ; Times: 1
+	Query: "Cyanopsitta spixii" ; Times: 8
+	Query: "Genetta genetta" ; Times: 2
+	Query: "cissa thalassina" ; Times: 3
+	Query: "Lemur catta" ; Times: 2
+	Query: "Diphyllodes respublica preparations:skin" ; Times: 1
+	Query: "Calidris canutus" ; Times: 1
+	Query: "dinornithidae" ; Times: 1
+	Query: "genus:Hyla specificepithet:savignyi" ; Times: 2
+	Query: "amazona vinacea" ; Times: 2
+	Query: "triturus cristatus" ; Times: 1
+	Query: "Pluvianus" ; Times: 1
+	Query: "gyps fulvus" ; Times: 2
+	Query: "perdix egg" ; Times: 1
+	Query: "vipera aspis" ; Times: 1
+	Query: "specificepithet:turdinus genus:Schiffornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phylloscopus inornatus continent:Europe" ; Times: 2
+	Query: "pseudopus apodus" ; Times: 8
+	Query: "Podarcis milensis" ; Times: 1
+	Query: "laticauda laticaudata" ; Times: 1
+	Query: "arctictis binturong" ; Times: 1
+	Query: "Chlidonias niger" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 22
+	Query: "emys orbicularis" ; Times: 1
+	Query: "Scolopax rusticola" ; Times: 1
+	Query: "Gonyosoma" ; Times: 2
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "Diphyllodes respublica" ; Times: 1
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 2
+	Query: "lepus europaeus" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 2
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Pedioplanis burchelli" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 1
+	Query: "Taricha rivularis" ; Times: 1
+	Query: "type:specimen order:Psittaciformes class:aves (pusillus)" ; Times: 1
+	Query: "Podiceps auritus" ; Times: 1
+	Query: "Calidris alpina type:specimen year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "crotalus durissus colombia" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT KU)" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "hydromedusa" ; Times: 4
+	Query: "Lycophidion capense capense" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 2
+	Query: "trachylepis megalura" ; Times: 5
+	Query: "Gallotia" ; Times: 1
+	Query: "Parotia sefilata preparations:skin" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 1
+	Query: "mertensiella caucasica" ; Times: 1
+	Query: "Lycophidion capense" ; Times: 3
+	Query: "gonyophis" ; Times: 1
+	Query: "Synallaxis subpudica" ; Times: 1
+	Query: "Uroplatus fimbriatus" ; Times: 1
+	Query: "Draco fimbriatus" ; Times: 1
+	Query: "Pedioplanis undata" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "type:specimen genus:Odobenus institutioncode:MZLU" ; Times: 1
+	Query: "Uromastyx acanthinura" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 90 (out of 889 download events in this period)
+Total number of records downloaded: 3159
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 3
+	Country: United States ; Times: 74
+	Country: Germany ; Times: 3
+	Country: Belgium ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 8
+	Date: 2015-12-07 ; Times: 4
+	Date: 2015-12-06 ; Times: 5
+	Date: 2015-12-04 ; Times: 3
+	Date: 2015-12-21 ; Times: 1
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-31 ; Times: 2
+	Date: 2015-12-25 ; Times: 8
+	Date: 2015-12-24 ; Times: 6
+	Date: 2015-12-27 ; Times: 4
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-14 ; Times: 1
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-16 ; Times: 2
+	Date: 2015-12-17 ; Times: 18
+	Date: 2015-12-10 ; Times: 3
+	Date: 2015-12-11 ; Times: 6
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-13 ; Times: 2
+	Date: 2015-12-18 ; Times: 4
+	Date: 2015-12-19 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix mappable:1" ; Times: 1
+	Query: "Macrovipera schweizeri" ; Times: 1
+	Query: "chrysopelea" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 1
+	Query: "Sceloporus spinosus" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:gulo genus:Gulo" ; Times: 2
+	Query: "Anaxyrus boreas" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "Drymarchon melanurus" ; Times: 1
+	Query: "specificepithet:onca genus:Panthera" ; Times: 2
+	Query: "Ctenophorus scutulatus" ; Times: 1
+	Query: "gyps fulvus" ; Times: 3
+	Query: "specificepithet:lupus genus:Canis" ; Times: 2
+	Query: "Elaphe longissima" ; Times: 1
+	Query: "alauda" ; Times: 1
+	Query: "specificepithet:musculus genus:mus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Troglodytes" ; Times: 1
+	Query: "Podarcis milensis" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "Rana aurora" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 2
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "chamaeleo jacksonii" ; Times: 2
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "specificepithet:onca family:Felidae" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "Lepomis" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+	Query: "spea" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "class:Aves country:&#34;French Guiana&#34;" ; Times: 1
+	Query: "Microlophus peruvianus" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "Pedioplanis lineoocellata" ; Times: 1
+	Query: "Natrix tessellata" ; Times: 1
+	Query: "chrysopelea ornata" ; Times: 1
+	Query: "Lacerta trilineata" ; Times: 1
+	Query: "Meroles cuneirostris" ; Times: 1
+	Query: "Tiliqua rugosa" ; Times: 1
+	Query: "tachuris" ; Times: 1
+	Query: "crotalus durissus colombia" ; Times: 1
+	Query: "Kinosternon" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus" ; Times: 1
+	Query: "Cordylus polyzonus" ; Times: 1
+	Query: "ambystoma tigrinum" ; Times: 1
+	Query: "enhydra" ; Times: 1
+	Query: "Trachyboa gularis" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 3
+	Query: "Pantherophis obsoletus" ; Times: 1
+	Query: "Gehyra" ; Times: 1
+	Query: "Pedioplanis undata" ; Times: 1
+	Query: "Tiliqua scincoides" ; Times: 1
+	Query: "Pseudobranchus" ; Times: 1
+	Query: "specificepithet:fuscus genus:Eptesicus" ; Times: 1
+	Query: "specificepithet:hemionus genus:Odocoileus" ; Times: 3
+	Query: "Poicephalus" ; Times: 1
+	Query: "Nerodia taxispilota" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "Hemiergis peronii" ; Times: 1
+	Query: "Nerodia rhombifer" ; Times: 1
+	Query: "aethomys" ; Times: 1
+	Query: "specificepithet:arctos genus:Ursus" ; Times: 1
+	Query: "Podarcis erhardii" ; Times: 1
+	Query: "Trachemys scripta" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "Pseudacris regilla" ; Times: 1
+
+
+End of report.
