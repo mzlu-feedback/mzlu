@@ -1,0 +1,276 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 145
+Number of records retrieved in searches: 1356
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 2
+	Country: Madagascar ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Bangladesh ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Denmark ; Times: 3
+	Country: Hungary ; Times: 3
+	Country: New Zealand ; Times: 4
+	Country: United States ; Times: 80
+	Country: Thailand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 7
+	Date: 2015-10-14 ; Times: 12
+	Date: 2015-10-15 ; Times: 10
+	Date: 2015-10-12 ; Times: 8
+	Date: 2015-10-13 ; Times: 18
+	Date: 2015-10-10 ; Times: 1
+	Date: 2015-10-11 ; Times: 8
+	Date: 2015-10-18 ; Times: 1
+	Date: 2015-10-19 ; Times: 1
+	Date: 2015-10-29 ; Times: 5
+	Date: 2015-10-28 ; Times: 16
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 3
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-24 ; Times: 4
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 4
+	Date: 2015-10-04 ; Times: 4
+	Date: 2015-10-07 ; Times: 8
+	Date: 2015-10-06 ; Times: 3
+	Date: 2015-10-01 ; Times: 4
+	Date: 2015-10-03 ; Times: 3
+	Date: 2015-10-02 ; Times: 1
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 3
+	Date: 2015-10-30 ; Times: 11
+	Date: 2015-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crax fasciolata fasciolata" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "bos grunniens" ; Times: 3
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Mustela lutreola" ; Times: 2
+	Query: "emys orbicularis tissue:1" ; Times: 1
+	Query: "genus:Trachyboa country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "ambystoma mexicanum" ; Times: 6
+	Query: "country:&#34;Madagascar&#34; institutioncode:MZLU" ; Times: 2
+	Query: "Phoenicopterus ruber" ; Times: 5
+	Query: "albania" ; Times: 1
+	Query: "francolinus capensis" ; Times: 6
+	Query: "Neophron type:specimen" ; Times: 1
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "francolinus swainsonii" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "Corallus caninus" ; Times: 3
+	Query: "francolinus levaillantoides" ; Times: 2
+	Query: "Pseudopus apodus" ; Times: 2
+	Query: "cabassous" ; Times: 1
+	Query: "Crotalus triseriatus" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lygophis institutioncode:MZLU" ; Times: 1
+	Query: "Neophron" ; Times: 5
+	Query: "emys OR clemmys tissue:1" ; Times: 1
+	Query: "Homopus" ; Times: 2
+	Query: "specificepithet:barbara genus:Eira institutioncode:MZLU" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "paradisaea apoda" ; Times: 7
+	Query: "emberiza melanocephala" ; Times: 4
+	Query: "Norops auratus" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Guttera edouardi" ; Times: 1
+	Query: "Gavialis" ; Times: 1
+	Query: "emberiza schoeniclus" ; Times: 3
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "aquila adalberti" ; Times: 1
+	Query: "catalognumber:2835" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 4
+	Query: "sus verrucosus" ; Times: 2
+	Query: "specificepithet:dufresniana genus:Amazona" ; Times: 3
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "andrias" ; Times: 1
+	Query: "parus major" ; Times: 2
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "catalognumber:7734" ; Times: 2
+	Query: "pomatorhinus schisticeps" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "ihering" ; Times: 1
+	Query: "gbifdatasetid:427a6290-0c65-11dd-84d2-b8a03c50a862" ; Times: 9
+	Query: "homo sapiens" ; Times: 1
+	Query: "circaetus" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 1
+	Query: "calotriton" ; Times: 1
+	Query: "Daubentonia madagascariensis" ; Times: 1
+	Query: "melanoperdix" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lygophis" ; Times: 3
+	Query: "specificepithet:regulus genus:Regulus tissue:1" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Odontophorus capueira" ; Times: 3
+	Query: "Ambystoma mexicanum" ; Times: 4
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "aegypius" ; Times: 1
+	Query: "jynx (skel OR skeleton)" ; Times: 1
+	Query: "Nestor meridionalis" ; Times: 8
+	Query: "class:reptilia country:&#34;albania&#34;" ; Times: 2
+	Query: "struthio camelus (skel OR skeleton)" ; Times: 1
+	Query: "emberiza bruniceps" ; Times: 1
+	Query: "Cabassous unicinctus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 113 (out of 823 download events in this period)
+Total number of records downloaded: 2581
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 64
+	Country: Italy ; Times: 2
+	Country: Uganda ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: Mexico ; Times: 25
+	Country: Peru ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Chile ; Times: 3
+	Country: Thailand ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Spain ; Times: 3
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 11
+	Date: 2015-10-14 ; Times: 2
+	Date: 2015-10-15 ; Times: 1
+	Date: 2015-10-12 ; Times: 1
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-19 ; Times: 5
+	Date: 2015-10-29 ; Times: 7
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 11
+	Date: 2015-10-26 ; Times: 2
+	Date: 2015-10-25 ; Times: 1
+	Date: 2015-10-23 ; Times: 5
+	Date: 2015-10-21 ; Times: 2
+	Date: 2015-10-20 ; Times: 2
+	Date: 2015-10-05 ; Times: 4
+	Date: 2015-10-04 ; Times: 3
+	Date: 2015-10-07 ; Times: 10
+	Date: 2015-10-06 ; Times: 5
+	Date: 2015-10-03 ; Times: 2
+	Date: 2015-10-02 ; Times: 3
+	Date: 2015-10-09 ; Times: 4
+	Date: 2015-10-08 ; Times: 4
+	Date: 2015-10-30 ; Times: 11
+	Date: 2015-10-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Selasphorus rufus type:specimen" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "alligator mississippiensis (skel OR skeleton)" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "emys OR clemmys tissue:1" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Pelodiscus sinensis" ; Times: 1
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Cnemidophorus" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 3
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "specificepithet:ameiva type:specimen" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "Megalaima asiatica" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 2
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "crotalus stephensi" ; Times: 1
+	Query: "family:spheniscidae" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "vipera ammodytes" ; Times: 1
+	Query: "anolis cristatellus" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "Phaethon lepturus" ; Times: 1
+	Query: "Terrapene" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "ambystoma maculatum" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "cardinalis cardinalis" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Icterus graduacauda" ; Times: 1
+	Query: "apalone ferox" ; Times: 2
+	Query: "Anolis carolinensis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 2
+	Query: "Malaclemys terrapin" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "order:primates" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "gallus gallus (skel OR skeleton)" ; Times: 1
+	Query: "bitis gabonica" ; Times: 3
+	Query: "Trachemys scripta elegans" ; Times: 4
+	Query: "specificepithet:regulus genus:Regulus tissue:1" ; Times: 1
+	Query: "Opheodrys vernalis" ; Times: 1
+	Query: "marmorata" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 1
+	Query: "contia tenuis" ; Times: 1
+	Query: "Crotaphytus collaris" ; Times: 1
+	Query: "Ramphotyphlops braminus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "class:aves stateprovince:California" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "stereochilus marginatus" ; Times: 1
+	Query: "motacilla citreola" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Chelydra" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "chamaeleo ellioti" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "xenopus laevis" ; Times: 1
+	Query: "dendroaspis angusticeps" ; Times: 2
+	Query: "PARAGUAY" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "aeneus" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "genetta genetta" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "glyptemys insculpta" ; Times: 1
+
+
+End of report.
