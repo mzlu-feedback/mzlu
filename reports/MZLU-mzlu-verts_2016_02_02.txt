@@ -1,0 +1,219 @@
+Report for Institution Code MZLU, Resource Amphibia
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 72
+Number of records retrieved in searches: 328
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Hungary ; Times: 4
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Namibia ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Switzerland ; Times: 9
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 4
+	Date: 2016-01-04 ; Times: 4
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-06 ; Times: 1
+	Date: 2016-01-07 ; Times: 2
+	Date: 2016-01-08 ; Times: 8
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-12 ; Times: 2
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-19 ; Times: 3
+	Date: 2016-01-20 ; Times: 5
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 2
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-25 ; Times: 1
+	Date: 2016-01-26 ; Times: 5
+	Date: 2016-01-28 ; Times: 12
+	Date: 2016-01-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "albania" ; Times: 2
+	Query: "Tadorna ferruginea" ; Times: 1
+	Query: "cissa thalassina" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "pitiayumi brazil" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops" ; Times: 1
+	Query: "genus:Carpornis class:Aves country:"Brazil"" ; Times: 2
+	Query: "dendrocopos medius" ; Times: 9
+	Query: "podiceps cristatus institutioncode:MZLU" ; Times: 1
+	Query: "Ophisops occidentalis" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 2
+	Query: "sphenodon" ; Times: 1
+	Query: "terpsiphone paradisi india" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 1
+	Query: "Gavia immer year >= 1905 year <= 1905" ; Times: 1
+	Query: "Mesalina rubropunctata" ; Times: 1
+	Query: "genus:Mastigodryas country:"Ecuador"" ; Times: 2
+	Query: "Caryothraustes canadensis brazil" ; Times: 1
+	Query: "Stereochilus marginatus stateprovince:"South Carolina"" ; Times: 1
+	Query: "bitis caudalis" ; Times: 3
+	Query: "specificepithet:trigeminus genus:Oxyrhopus country:"Brazil"" ; Times: 1
+	Query: "specificepithet:longissima family:colubridae" ; Times: 1
+	Query: "vipera ursinii" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "Vulpes chama" ; Times: 1
+	Query: "Pythonidae tissue:1" ; Times: 2
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "Gypaetus" ; Times: 3
+	Query: "pavo cristatus" ; Times: 1
+	Query: "genus:Caecilia specificepithet:gracilis" ; Times: 1
+	Query: "impennis stateprovince:"newfoundland"" ; Times: 2
+	Query: "Rhombophryne" ; Times: 1
+	Query: "albania reptilia" ; Times: 1
+	Query: "Psittacula roseata" ; Times: 3
+	Query: "genus:georychus" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "type:specimen order:psittaciformes (ambigua)" ; Times: 1
+	Query: "Cissa thalassina" ; Times: 5
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Trapelus mutabilis" ; Times: 1
+	Query: "type:specimen specificepithet:longissima genus:elaphe" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: ""naja naja"" ; Times: 2
+	Query: "type:specimen genus:cryptobranchus stateprovince:"pennsylvania"" ; Times: 1
+	Query: "francolinus capensis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 63 (out of 507 download events in this period)
+Total number of records downloaded: 743 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 576
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: Mexico ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 44
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 7
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-03 ; Times: 4
+	Date: 2016-01-04 ; Times: 3
+	Date: 2016-01-05 ; Times: 6
+	Date: 2016-01-08 ; Times: 3
+	Date: 2016-01-13 ; Times: 2
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-15 ; Times: 3
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-19 ; Times: 4
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 4
+	Date: 2016-01-22 ; Times: 3
+	Date: 2016-01-25 ; Times: 4
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-27 ; Times: 3
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Hyla eximia" ; Times: 1
+	Query: "pseudopus apodus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "spea hammondii" ; Times: 1
+	Query: ""Coeligena torquata"" ; Times: 1
+	Query: ""Zonotrichia capensis"" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: "Hyperolius marmoratus" ; Times: 1
+	Query: "Hyperolius" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "Mauremys leprosa" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "sagrei" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "order:CAudata country:"United States"" ; Times: 4
+	Query: "Nerodia fasciata" ; Times: 1
+	Query: "Chelodina longicollis" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "plethodon cinereus" ; Times: 2
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: ""Heliangelus amethysticollis"" ; Times: 1
+	Query: "Gasterosteus aculeatus" ; Times: 1
+	Query: ""Lafresnaya lafresnayi"" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "family:Acipenseridae" ; Times: 1
+	Query: "Erythrolamprus aesculapii" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "family:Lepisosteidae" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Pelomedusa subrufa" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Anguilla rostrata" ; Times: 1
+	Query: "family:Ictaluridae" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: ""Cyclarhis gujanensis"" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: ""naja naja"" ; Times: 1
+	Query: "sphaerodactylus" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "family:Engraulidae" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Taricha stateprovince:"California"" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 63
+Total number of records downloaded: 743
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 72
+Total number of records retrieved from searches: 328
+Number of download events that retrieved data from the resource: 63
+Total number of records downloaded: 743
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
