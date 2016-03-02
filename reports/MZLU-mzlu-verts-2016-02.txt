@@ -1,0 +1,208 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 100
+Number of records retrieved in searches: 355
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 43
+	Country: Madagascar ; Times: 5
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Gabon ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Switzerland ; Times: 3
+	Country: Germany ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-18 ; Times: 7
+	Date: 2016-02-19 ; Times: 8
+	Date: 2016-02-13 ; Times: 2
+	Date: 2016-02-10 ; Times: 12
+	Date: 2016-02-11 ; Times: 3
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-15 ; Times: 3
+	Date: 2016-02-29 ; Times: 1
+	Date: 2016-02-02 ; Times: 14
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-08 ; Times: 3
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 6
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 8
+	Date: 2016-02-03 ; Times: 2
+	Date: 2016-02-28 ; Times: 4
+	Date: 2016-02-05 ; Times: 3
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Strigops" ; Times: 1
+	Query: "indri" ; Times: 2
+	Query: "ara ambiguus" ; Times: 3
+	Query: "genus:Cyanopsitta (spixii)" ; Times: 2
+	Query: "gyps" ; Times: 1
+	Query: "columba speciosa brazil" ; Times: 1
+	Query: "Ilicura militaris" ; Times: 2
+	Query: "type:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Coracias cyanogaster" ; Times: 1
+	Query: "Ahaetulla fasciolata" ; Times: 2
+	Query: "genus:Bradypus country:&#34;colombia&#34;" ; Times: 1
+	Query: "Anas institutioncode:MZLU tissue:1" ; Times: 1
+	Query: "polypterus bichir" ; Times: 1
+	Query: "psittacula columboides" ; Times: 1
+	Query: "stenodactylus petrii" ; Times: 1
+	Query: "calyptura" ; Times: 1
+	Query: "Trachemys scripta stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "chrysopelea india" ; Times: 8
+	Query: "viperidae country:&#34;Colombia&#34;" ; Times: 1
+	Query: "heleophryne" ; Times: 1
+	Query: "Mammalia Mellivora" ; Times: 1
+	Query: "indri indri" ; Times: 3
+	Query: "threskiornis melanocephalus" ; Times: 4
+	Query: "ardeola speciosa" ; Times: 1
+	Query: "gyps bengalensis" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:aquila year &gt;= 1905 year &lt;= 1910" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "ardeola rufiventris" ; Times: 1
+	Query: "chrysopelea institutioncode:MZLU" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 3
+	Query: "Calumma parsonii" ; Times: 2
+	Query: "Pitta brachyura type:specimen" ; Times: 1
+	Query: "barbastella" ; Times: 1
+	Query: "gbifdatasetid:427a6290-0c65-11dd-84d2-b8a03c50a862" ; Times: 1
+	Query: "cetorhinus maximus" ; Times: 1
+	Query: "neophron" ; Times: 1
+	Query: "Heleophryne regis" ; Times: 1
+	Query: "coronella austriaca" ; Times: 1
+	Query: "genus:Alca tissue:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 3
+	Query: "antilophia galeata" ; Times: 1
+	Query: "specificepithet:chrysaetos genus:aquila year &gt;= 1908 year &lt;= 1908" ; Times: 1
+	Query: "Heleophryne purcelli" ; Times: 1
+	Query: "type:specimen specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 1
+	Query: "Mellivora Mammalia" ; Times: 2
+	Query: "Panthera uncia" ; Times: 7
+	Query: "Phoeniconaias minor" ; Times: 1
+	Query: "ducula lacernulata" ; Times: 3
+	Query: "genus:Phibalura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:nudicollis genus:Procnias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "Lithobates capito" ; Times: 2
+	Query: "vipera berus" ; Times: 2
+	Query: "larus fuscus" ; Times: 1
+	Query: "(Osteolaemus OR Osteoblepharon)" ; Times: 1
+	Query: "apogon imberbis" ; Times: 1
+	Query: "Heptranchias perlo" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "specificepithet:nudicollis genus:Procnias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Boophis tephraeomystax" ; Times: 1
+	Query: "Ptyas dipsas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 512 download events in this period)
+Total number of records downloaded: 10994
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Chile ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 20
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-23 ; Times: 3
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-08 ; Times: 2
+	Date: 2016-02-19 ; Times: 8
+	Date: 2016-02-17 ; Times: 4
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-18 ; Times: 4
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-26 ; Times: 2
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-12 ; Times: 2
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-10 ; Times: 3
+	Date: 2016-02-02 ; Times: 3
+	Date: 2016-02-16 ; Times: 2
+	Date: 2016-02-04 ; Times: 3
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Gymnophiona" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "genus:thamnophis" ; Times: 1
+	Query: "Poicephalus meyeri" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Strigops" ; Times: 1
+	Query: "spilotes pullatus" ; Times: 1
+	Query: "Philodryas" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "synallaxis ruficapilla" ; Times: 1
+	Query: "heleophryne" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "chelonia mydas" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "Pseudacris nigrita" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "taricha torosa" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "antilophia galeata" ; Times: 1
+	Query: "class:reptilia country:Haiti" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "trachemys scripta type:specimen" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "Podiceps major" ; Times: 1
+	Query: "ahaetulla" ; Times: 2
+	Query: "crotalus atrox" ; Times: 2
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Saltator" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+
+
+End of report.
