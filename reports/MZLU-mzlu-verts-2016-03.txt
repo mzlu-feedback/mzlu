@@ -1,0 +1,129 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 116
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: United States ; Times: 24
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-11 ; Times: 7
+	Date: 2016-03-03 ; Times: 4
+	Date: 2016-03-08 ; Times: 6
+	Date: 2016-03-09 ; Times: 5
+	Date: 2016-03-06 ; Times: 2
+	Date: 2016-03-14 ; Times: 1
+	Date: 2016-03-04 ; Times: 9
+	Date: 2016-03-05 ; Times: 1
+	Date: 2016-03-02 ; Times: 2
+	Date: 2016-03-10 ; Times: 1
+	Date: 2016-03-13 ; Times: 3
+	Date: 2016-03-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "&#34;Caprimulgus tristigma&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;mexico&#34; year &gt;= 1700 year &lt;= 1850" ; Times: 1
+	Query: "Heloderma horridum horridum" ; Times: 1
+	Query: "Caprimulgus tristigma" ; Times: 1
+	Query: "type:specimen specificepithet:mystaceus genus:Platyrinchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:Gemonensis class:Reptilia country:&#34;Greece&#34;" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "mesoplodon" ; Times: 1
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "sphenodon" ; Times: 1
+	Query: "Homopus" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "eudynamys scolopacea india" ; Times: 1
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:domesticus genus:Passer (egg)" ; Times: 2
+	Query: "crotalus triseriatus" ; Times: 5
+	Query: "Heloderma horridum 1" ; Times: 1
+	Query: "psammophis sibilans" ; Times: 1
+	Query: "mesoplodon bidens" ; Times: 4
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "leptoptilus javanicus" ; Times: 1
+	Query: "genus:Moschus" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 1850" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "Babyrousa" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax country:&#34;colombia&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 230 download events in this period)
+Total number of records downloaded: 17727
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 42
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-12 ; Times: 2
+	Date: 2016-03-10 ; Times: 10
+	Date: 2016-03-08 ; Times: 5
+	Date: 2016-03-09 ; Times: 10
+	Date: 2016-03-06 ; Times: 3
+	Date: 2016-03-14 ; Times: 8
+	Date: 2016-03-04 ; Times: 2
+	Date: 2016-03-05 ; Times: 2
+	Date: 2016-03-11 ; Times: 4
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-13 ; Times: 7
+	Date: 2016-03-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupinambis" ; Times: 1
+	Query: "parula pitiayumi" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "sphenodon" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 1
+	Query: "Oriolus xanthonotus" ; Times: 1
+	Query: "myrmecocichla nigra" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1871 year &lt;= 1900" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "agamidae (java)" ; Times: 1
+	Query: "tissue" ; Times: 35
+	Query: "Alces alces" ; Times: 1
+	Query: "parula americana" ; Times: 1
+	Query: "Psittacidae Psittacula" ; Times: 1
+	Query: "passer domesticus type:specimen specificepithet:domesticus genus:Passer" ; Times: 1
+	Query: "Cnemidophorus sexlineatus" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
