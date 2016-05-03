@@ -1,0 +1,398 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for April 2016, generated on 2016/05/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 185
+Number of records retrieved in searches: 827
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 76
+	Country: Netherlands ; Times: 2
+	Country: Czech Republic ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Panama ; Times: 3
+	Country: Russia ; Times: 15
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Switzerland ; Times: 2
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 43
+	Country: Poland ; Times: 1
+	Country: Spain ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-02 ; Times: 3
+	Date: 2016-04-07 ; Times: 11
+	Date: 2016-04-06 ; Times: 6
+	Date: 2016-04-05 ; Times: 45
+	Date: 2016-04-04 ; Times: 9
+	Date: 2016-04-21 ; Times: 7
+	Date: 2016-04-20 ; Times: 15
+	Date: 2016-04-09 ; Times: 6
+	Date: 2016-04-08 ; Times: 1
+	Date: 2016-04-25 ; Times: 3
+	Date: 2016-04-24 ; Times: 1
+	Date: 2016-04-27 ; Times: 1
+	Date: 2016-04-26 ; Times: 14
+	Date: 2016-04-22 ; Times: 6
+	Date: 2016-04-18 ; Times: 6
+	Date: 2016-04-19 ; Times: 17
+	Date: 2016-04-14 ; Times: 4
+	Date: 2016-04-15 ; Times: 7
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-10 ; Times: 8
+	Date: 2016-04-11 ; Times: 7
+	Date: 2016-04-12 ; Times: 5
+	Date: 2016-04-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Eirenis persicus" ; Times: 1
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 2
+	Query: "family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 2
+	Query: "Podarcis muralis" ; Times: 2
+	Query: "Ptyas mucosa" ; Times: 1
+	Query: "specificepithet:genetta genus:genetta order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "specificepithet:LEO genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Leptotyphlops conjuncta" ; Times: 1
+	Query: "crex" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 2
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "phalacrocorax carbo (africa)" ; Times: 1
+	Query: "Eumeces schneideri" ; Times: 1
+	Query: "lacertidae country:&#34;hungary&#34;" ; Times: 1
+	Query: "Hemorrhois ravergieri" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "eryx miliaris" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 6
+	Query: "blanus" ; Times: 1
+	Query: "specificepithet:leo genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Hypsiboas specificepithet:faber" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen" ; Times: 1
+	Query: "specificepithet:PARDUS genus:PANTHERA family:FELIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "Ablepharus bivittatus" ; Times: 1
+	Query: "OXYNOTIDAE" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "genus:Leiopelma specificepithet:archeyi" ; Times: 17
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "PLATYRHINIDAE" ; Times: 1
+	Query: "hydrobates" ; Times: 1
+	Query: "Iberolacerta" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 4
+	Query: "epidalea calamita" ; Times: 4
+	Query: "specificepithet:major genus:Parus tissue:1" ; Times: 2
+	Query: "Platyceps najadum" ; Times: 1
+	Query: "type:specimen genus:Psittacula (columboides)" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "specificepithet:GENETTA genus:GENETTA family:VIVERRIDAE order:CARNIVORA class:MAMMALIA country:&#34;KENYA&#34;" ; Times: 1
+	Query: "genus:Bombina specificepithet:variegata" ; Times: 4
+	Query: "sturnus contra india" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 2
+	Query: "cryptobranchus alleganiensis pennsylvania" ; Times: 1
+	Query: "Phoenicopterus ruber type:specimen AND (NOT roseus)" ; Times: 1
+	Query: "pteroglossus aracari type:specimen" ; Times: 2
+	Query: "SIMIIFORMES" ; Times: 1
+	Query: "Aparallactus capensis" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Myophonus blighi" ; Times: 1
+	Query: "Vipera ammodytes 1" ; Times: 1
+	Query: "lutra lutra" ; Times: 4
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "Pseudocalotes" ; Times: 1
+	Query: "Tropidophiidae" ; Times: 1
+	Query: "farancia erythrogramma" ; Times: 2
+	Query: "Galictis vittata" ; Times: 3
+	Query: "phoenicopterus ruber" ; Times: 1
+	Query: "genus:Leiopelma specificepithet:hochstetteri" ; Times: 25
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "megalaima haemacephala india" ; Times: 1
+	Query: "Spalerosophis diadema" ; Times: 1
+	Query: "capromys" ; Times: 1
+	Query: "leiopelma" ; Times: 1
+	Query: "pelecanus onocrotalus" ; Times: 3
+	Query: "crex crex" ; Times: 1
+	Query: "Telescopus fallax" ; Times: 1
+	Query: "Haliaeetus vocifer" ; Times: 1
+	Query: "Emys orbicularis" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "griselda" ; Times: 1
+	Query: "Chrysemys picta" ; Times: 3
+	Query: "psittacula columboides" ; Times: 1
+	Query: "family:equidae tissue:1" ; Times: 6
+	Query: "dendrocopos medius" ; Times: 2
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "desmana" ; Times: 2
+	Query: "Teira dugesii 1" ; Times: 2
+	Query: "coronella austriaca" ; Times: 2
+	Query: "Eublepharis" ; Times: 1
+	Query: "galemys" ; Times: 3
+	Query: "tupaia horsfield" ; Times: 1
+	Query: "eryx jaculus" ; Times: 1
+	Query: "family:viverridae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "sphenodon tissue:1" ; Times: 1
+	Query: "gallinula chloropus skeleton" ; Times: 1
+	Query: "Natrix tessellata 1" ; Times: 2
+	Query: "eublepharis" ; Times: 1
+	Query: "Bison bonasus" ; Times: 1
+	Query: "Epictia tenella" ; Times: 1
+	Query: "genus:Echinotriton specificepithet:andersoni" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 222 (out of 1312 download events in this period)
+Total number of records downloaded: 5007
+Number of different countries: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 159
+	Country: Mexico ; Times: 10
+	Country: India ; Times: 2
+	Country: United States ; Times: 32
+	Country: United Arab Emirates ; Times: 1
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-04-29 ; Times: 1
+	Date: 2016-04-02 ; Times: 1
+	Date: 2016-04-07 ; Times: 1
+	Date: 2016-04-06 ; Times: 4
+	Date: 2016-04-05 ; Times: 2
+	Date: 2016-04-04 ; Times: 1
+	Date: 2016-04-21 ; Times: 4
+	Date: 2016-04-20 ; Times: 6
+	Date: 2016-04-23 ; Times: 11
+	Date: 2016-04-22 ; Times: 69
+	Date: 2016-04-25 ; Times: 4
+	Date: 2016-04-24 ; Times: 2
+	Date: 2016-04-27 ; Times: 6
+	Date: 2016-04-26 ; Times: 11
+	Date: 2016-04-08 ; Times: 2
+	Date: 2016-04-18 ; Times: 6
+	Date: 2016-04-19 ; Times: 70
+	Date: 2016-04-14 ; Times: 3
+	Date: 2016-04-15 ; Times: 1
+	Date: 2016-04-16 ; Times: 1
+	Date: 2016-04-17 ; Times: 1
+	Date: 2016-04-11 ; Times: 2
+	Date: 2016-04-12 ; Times: 6
+	Date: 2016-04-13 ; Times: 4
+	Date: 2016-04-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "MONACANTHIDAE" ; Times: 1
+	Query: "tamiasciurus hudsonicus" ; Times: 1
+	Query: "tamias striatus" ; Times: 1
+	Query: "OPHICHTHIDAE" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "Podarcis muralis" ; Times: 1
+	Query: "PARALICHTHYIDAE" ; Times: 1
+	Query: "GYMNURIDAE" ; Times: 1
+	Query: "sialia sialis" ; Times: 1
+	Query: "Tropidoclonion lineatum" ; Times: 1
+	Query: "DORADIDAE" ; Times: 1
+	Query: "BELONIDAE" ; Times: 1
+	Query: "ACIPENSERIDAE" ; Times: 1
+	Query: "LORICARIIDAE" ; Times: 1
+	Query: "LABRISOMIDAE" ; Times: 1
+	Query: "ALBULIDAE" ; Times: 1
+	Query: "Psammodromus hispanicus" ; Times: 1
+	Query: "Psammodromus algirus" ; Times: 1
+	Query: "TORPEDINIDAE" ; Times: 1
+	Query: "HEXANCHIDAE" ; Times: 1
+	Query: "COTTIDAE" ; Times: 3
+	Query: "Ara macao" ; Times: 1
+	Query: "Odocoileus" ; Times: 1
+	Query: "ACANTHURIDAE" ; Times: 2
+	Query: "MUGILIDAE" ; Times: 1
+	Query: "POMACANTHIDAE" ; Times: 2
+	Query: "CARAPIDAE" ; Times: 2
+	Query: "APLOCHEILIDAE" ; Times: 1
+	Query: "ANOMALOPIDAE" ; Times: 1
+	Query: "CHAENOPSIDAE" ; Times: 1
+	Query: "Crotalus atrox" ; Times: 1
+	Query: "FUNDULIDAE" ; Times: 1
+	Query: "MYLIOBATIDAE" ; Times: 1
+	Query: "ATHERINIDAE" ; Times: 1
+	Query: "CARCHARHINIDAE" ; Times: 1
+	Query: "POMACENTRIDAE" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "heterodontidae" ; Times: 3
+	Query: "MERLUCCIIDAE" ; Times: 1
+	Query: "OPHIDIIDAE" ; Times: 1
+	Query: "BERYCIDAE" ; Times: 1
+	Query: "ambystoma" ; Times: 1
+	Query: "lithobates areolatus" ; Times: 1
+	Query: "CALLORHINCHIDAE" ; Times: 4
+	Query: "SERRANIDAE" ; Times: 1
+	Query: "lerista" ; Times: 1
+	Query: "BALISTIDAE" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Crotalus durissus" ; Times: 1
+	Query: "CLUPEIDAE" ; Times: 2
+	Query: "AULORHYNCHIDAE" ; Times: 1
+	Query: "class:Amphibia country:&#34;United States&#34;" ; Times: 1
+	Query: "SPHYRAENIDAE" ; Times: 2
+	Query: "HOLOCENTRIDAE" ; Times: 1
+	Query: "Chlidonias hybrida" ; Times: 2
+	Query: "NARCINIDAE" ; Times: 1
+	Query: "CETORHINIDAE" ; Times: 1
+	Query: "MALACANTHIDAE" ; Times: 1
+	Query: "OXYNOTIDAE" ; Times: 1
+	Query: "LAMNIDAE" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "SCOMBRIDAE" ; Times: 1
+	Query: "FISTULARIIDAE" ; Times: 1
+	Query: "CARANGIDAE" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "PLATYRHINIDAE" ; Times: 2
+	Query: "LABRIDAE" ; Times: 1
+	Query: "TRIGLIDAE" ; Times: 1
+	Query: "ASPREDINIDAE" ; Times: 1
+	Query: "CYNOGLOSSIDAE" ; Times: 1
+	Query: "ENGRAULIDAE" ; Times: 2
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "OSTRACIIDAE" ; Times: 2
+	Query: "sciurus aberti" ; Times: 1
+	Query: "SCORPAENIDAE" ; Times: 1
+	Query: "CALLIONYMIDAE" ; Times: 2
+	Query: "ALOPIIDAE" ; Times: 1
+	Query: "loxia curvirostra skeleton" ; Times: 1
+	Query: "GADIDAE" ; Times: 2
+	Query: "RHINOBATIDAE" ; Times: 1
+	Query: "ETMOPTERIDAE" ; Times: 1
+	Query: "NETTASTOMATIDAE" ; Times: 1
+	Query: "APOGONIDAE" ; Times: 2
+	Query: "DIODONTIDAE" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "MURAENIDAE" ; Times: 1
+	Query: "SCOMBERESOCIDAE" ; Times: 1
+	Query: "DACTYLOPTERIDAE" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "MICRODESMIDAE" ; Times: 1
+	Query: "carcharhinidae" ; Times: 1
+	Query: "TRIPTERYGIIDAE" ; Times: 1
+	Query: "HEMIRAMPHIDAE" ; Times: 1
+	Query: "SOLEIDAE" ; Times: 1
+	Query: "CENTROLOPHIDAE" ; Times: 1
+	Query: "Craugastor fitzingeri" ; Times: 1
+	Query: "Acanthodactylus erythrurus" ; Times: 1
+	Query: "CHAETODONTIDAE" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "SCIAENIDAE" ; Times: 1
+	Query: "Gonocephalus" ; Times: 1
+	Query: "GOBIIDAE" ; Times: 1
+	Query: "LOPHIIDAE" ; Times: 1
+	Query: "CYPRINODONTIDAE" ; Times: 1
+	Query: "ZANCLIDAE" ; Times: 1
+	Query: "ANGUILLIDAE" ; Times: 1
+	Query: "genus:Conraua specificepithet:goliath" ; Times: 1
+	Query: "galemys" ; Times: 1
+	Query: "SCYLIORHINIDAE" ; Times: 1
+	Query: "Loricariidae" ; Times: 1
+	Query: "family:Elephantidae (skull)" ; Times: 1
+	Query: "OGCOCEPHALIDAE" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "EPIGONIDAE" ; Times: 1
+	Query: "Dolichonyx oryzivorus" ; Times: 1
+	Query: "lutra lutra mappable:1" ; Times: 1
+	Query: "SPHYRNIDAE" ; Times: 1
+	Query: "CLINIDAE" ; Times: 1
+	Query: "CICHLIDAE" ; Times: 2
+	Query: "ptychadena mascareniensis" ; Times: 1
+	Query: "CALLICHTHYIDAE" ; Times: 2
+	Query: "TRACHIPTERIDAE" ; Times: 1
+	Query: "CENTRISCIDAE" ; Times: 1
+	Query: "CORYPHAENIDAE" ; Times: 1
+	Query: "CONGRIDAE" ; Times: 1
+	Query: "AMMODYTIDAE" ; Times: 1
+	Query: "cyrtodactylus" ; Times: 1
+	Query: "RAJIDAE" ; Times: 1
+	Query: "POECILIIDAE" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "MOLIDAE" ; Times: 1
+	Query: "SYNGNATHIDAE" ; Times: 1
+	Query: "EXOCOETIDAE" ; Times: 1
+	Query: "caiman yacare" ; Times: 1
+	Query: "CHARACIDAE" ; Times: 1
+	Query: "SCHINDLERIIDAE" ; Times: 1
+	Query: "ELOPIDAE" ; Times: 1
+	Query: "BOTHIDAE" ; Times: 1
+	Query: "Leopardus" ; Times: 1
+	Query: "Nandayus" ; Times: 1
+	Query: "URANOSCOPIDAE" ; Times: 1
+	Query: "SQUALIDAE" ; Times: 1
+	Query: "BYTHITIDAE" ; Times: 1
+	Query: "POLYNEMIDAE" ; Times: 1
+	Query: "STERNOPYGIDAE" ; Times: 2
+	Query: "SYNODONTIDAE" ; Times: 2
+	Query: "DALATIIDAE" ; Times: 1
+	Query: "varanus niloticus" ; Times: 1
+	Query: "ANTENNARIIDAE" ; Times: 1
+	Query: "CHIMAERIDAE" ; Times: 1
+	Query: "SPARIDAE" ; Times: 1
+	Query: "kassina" ; Times: 1
+	Query: "BLENNIIDAE" ; Times: 2
+	Query: "DASYATIDAE" ; Times: 1
+	Query: "AULOPIDAE" ; Times: 1
+	Query: "TRICHIURIDAE" ; Times: 1
+	Query: "Sistrurus" ; Times: 1
+	Query: "XIPHIIDAE" ; Times: 1
+	Query: "Ascaphus truei" ; Times: 1
+	Query: "ZEIDAE" ; Times: 1
+	Query: "EMBIOTOCIDAE" ; Times: 1
+	Query: "GERREIDAE" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "MORIDAE" ; Times: 1
+	Query: "PLEURONECTIDAE" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "KYPHOSIDAE" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "ARGENTINIDAE" ; Times: 1
+	Query: "LUTJANIDAE" ; Times: 1
+	Query: "SQUATINIDAE" ; Times: 1
+	Query: "SCARIDAE" ; Times: 1
+	Query: "ctenotus" ; Times: 1
+	Query: "TRIAKIDAE" ; Times: 1
+	Query: "LEPISOSTEIDAE" ; Times: 1
+	Query: "ECHENEIDAE" ; Times: 1
+	Query: "BATRACHOIDIDAE" ; Times: 1
+	Query: "ptychadena oxyrhynchus" ; Times: 1
+	Query: "glaucomys" ; Times: 1
+	Query: "Hyla arborea" ; Times: 1
+	Query: "glyptemys muhlenbergii" ; Times: 1
+	Query: "Eublepharis" ; Times: 1
+	Query: "colibri coruscans" ; Times: 2
+	Query: "SCOPHTHALMIDAE" ; Times: 1
+	Query: "GINGLYMOSTOMATIDAE" ; Times: 1
+	Query: "PRISTIOPHORIDAE" ; Times: 1
+	Query: "MORONIDAE" ; Times: 1
+	Query: "PRISTIDAE" ; Times: 1
+	Query: "MULLIDAE" ; Times: 1
+	Query: "specificepithet:atrox genus:Crotalus country:&#34;United States&#34; year &gt;= 1950 year &lt;= 2016" ; Times: 1
+	Query: "TETRAODONTIDAE" ; Times: 1
+	Query: "PIMELODIDAE" ; Times: 1
+	Query: "genus:Ambystoma opacum" ; Times: 1
+	Query: "Aves year &gt;= 1874 year &lt;= 1874 month &gt;= 8 month &lt;= 8" ; Times: 1
+	Query: "EPHIPPIDAE" ; Times: 1
+	Query: "order:cetacea (orca)" ; Times: 1
+
+
+End of report.
