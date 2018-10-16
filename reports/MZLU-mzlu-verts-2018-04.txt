@@ -1,0 +1,346 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 222
+Number of records retrieved in searches: 739
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 3
+	Country: Israel ; Times: 8
+	Country: Australia ; Times: 22
+	Country: Italy ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: India ; Times: 4
+	Country: France ; Times: 3
+	Country: United States ; Times: 122
+	Country: United Kingdom ; Times: 14
+	Country: Peru ; Times: 3
+	Country: Switzerland ; Times: 2
+	Country: Japan ; Times: 5
+	Country: Argentina ; Times: 12
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 2
+	Date: 2018-04-28 ; Times: 3
+	Date: 2018-04-23 ; Times: 2
+	Date: 2018-04-22 ; Times: 11
+	Date: 2018-04-21 ; Times: 4
+	Date: 2018-04-20 ; Times: 10
+	Date: 2018-04-27 ; Times: 31
+	Date: 2018-04-26 ; Times: 7
+	Date: 2018-04-25 ; Times: 5
+	Date: 2018-04-24 ; Times: 8
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 2
+	Date: 2018-04-02 ; Times: 6
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 7
+	Date: 2018-04-09 ; Times: 3
+	Date: 2018-04-08 ; Times: 7
+	Date: 2018-04-16 ; Times: 22
+	Date: 2018-04-12 ; Times: 5
+	Date: 2018-04-13 ; Times: 8
+	Date: 2018-04-10 ; Times: 10
+	Date: 2018-04-30 ; Times: 8
+	Date: 2018-04-17 ; Times: 17
+	Date: 2018-04-18 ; Times: 21
+	Date: 2018-04-19 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Varanus gouldii hastissue:1" ; Times: 1
+	Query: "Rhabdophis chrysargos Indonesia" ; Times: 1
+	Query: "genus:Trioceros hastissue:1" ; Times: 4
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "Tropidophiidae hastissue:1" ; Times: 1
+	Query: "Ptyas mucosa" ; Times: 2
+	Query: "vntype:specimen genus:Arundinicola class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Chamaeleo preparations:skeleton" ; Times: 4
+	Query: "family:Tragulidae hastissue:1" ; Times: 2
+	Query: "Anomalepididae" ; Times: 1
+	Query: "specificepithet:jaculus genus:eryx hastissue:1" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "telescopus fallax" ; Times: 1
+	Query: "genus:dolichophis hastissue:1" ; Times: 3
+	Query: "genus:Caenolestes " ; Times: 2
+	Query: "genus:vandijkophrynus hastissue:1" ; Times: 1
+	Query: "genus:Lygophis hastissue:1" ; Times: 4
+	Query: "Aniliidae hastissue=1" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1840 year &lt;= 1860" ; Times: 1
+	Query: "eumeces schneiderii" ; Times: 7
+	Query: "godefrida" ; Times: 1
+	Query: "specificepithet:polystictus genus:crotalus" ; Times: 1
+	Query: "Tachymenis peruviana" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "preparations:skeleton genus:andrias" ; Times: 1
+	Query: "Trachyboa gularis" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1861 year &lt;= 1880" ; Times: 1
+	Query: "Sepsina alberti" ; Times: 1
+	Query: "genus:capensibufo hastissue:1" ; Times: 1
+	Query: "trapelus pallidus" ; Times: 1
+	Query: "Rhabdophis chrysargos Java" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 6
+	Query: "Rhabdophis Java" ; Times: 1
+	Query: "genus:eryx hastissue:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1860 year &lt;= 1869" ; Times: 1
+	Query: "genus:telescopus hastissue:1" ; Times: 1
+	Query: "Corvus cornix" ; Times: 1
+	Query: "numenius arquata egg germany" ; Times: 1
+	Query: "lygosoma quadrupes" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "Ptyas dipsas" ; Times: 3
+	Query: "vntype:specimen specificepithet:polyphemus genus:Gopherus hastissue:1" ; Times: 2
+	Query: "Psammodromus hastissue:1" ; Times: 1
+	Query: "Ruwenzorornis johnstoni" ; Times: 1
+	Query: "specificepithet:concolor genus:Felis" ; Times: 1
+	Query: "Anilius hastissue:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1840 year &lt;= 1860" ; Times: 1
+	Query: "Mesalina vntype:specimen hastissue:1" ; Times: 1
+	Query: "Tropidosaura essexi" ; Times: 1
+	Query: "genus:Tragulus hastissue:1" ; Times: 2
+	Query: "Falco cherrug" ; Times: 1
+	Query: "specificepithet:tessellata genus:Natrix hastissue:1" ; Times: 2
+	Query: "nyctinomops aurispinosus" ; Times: 2
+	Query: "genus:Pedioplanis hastissue:1" ; Times: 2
+	Query: "specificepithet:procyonoides genus:Nyctereutes year &gt;= 1861 year &lt;= 1880" ; Times: 1
+	Query: "genus:Ablepharus hastissue:1" ; Times: 1
+	Query: "Cordylus hastissue:1" ; Times: 1
+	Query: "specificepithet:caudalis genus:bitis" ; Times: 1
+	Query: "genus:vipera year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Oceanites hastissue:1" ; Times: 1
+	Query: "genus:amietophrynus hastissue:1" ; Times: 1
+	Query: "genus:Naultinus hastissue:1" ; Times: 2
+	Query: "genus:Rhampholeon hastissue:1" ; Times: 1
+	Query: "axis axis cervidae" ; Times: 1
+	Query: "Lialis burtonis hastissue:1" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus hastissue:1" ; Times: 5
+	Query: "gubernatrix cristata" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix hastissue:1" ; Times: 3
+	Query: "genus:Lerista hastissue:1" ; Times: 2
+	Query: "genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:phocoena genus:Phocoena" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1850 year &lt;= 1870" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "Heliobolus vntype:specimen hastissue:1" ; Times: 1
+	Query: "genus:laterallus family:rallidae basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "timon lepidus" ; Times: 1
+	Query: "specificepithet:vegrandis genus:crotalus" ; Times: 1
+	Query: "specificepithet:calamita hastissue:1" ; Times: 1
+	Query: "genus:Aegolius year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "genus: Cylindrophis hastissue:1" ; Times: 1
+	Query: "oligodon taeniolatus" ; Times: 1
+	Query: "Sphenomorphus Java" ; Times: 4
+	Query: "lissotriton" ; Times: 1
+	Query: "vultur gryphus" ; Times: 7
+	Query: "genus:Lacerta hastissue:1" ; Times: 2
+	Query: "genus: Typhlops hastissue:1" ; Times: 2
+	Query: "genus:Phrynoidis hastissue:1" ; Times: 1
+	Query: "Rhabdophis chrysargos" ; Times: 3
+	Query: "genus:Lygophis" ; Times: 1
+	Query: "phoenicopterus ruber" ; Times: 3
+	Query: "specificepithet:aureus genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "gallingo delicata" ; Times: 1
+	Query: "genus:Rhoptropus hastissue:1" ; Times: 3
+	Query: "specificepithet:fallax genus:telescopus hastissue:1" ; Times: 2
+	Query: "Tachymenis peruviana mappable:1" ; Times: 1
+	Query: "genus:poyntonophrynus hastissue:1" ; Times: 1
+	Query: "porphyrio hastissue:1" ; Times: 2
+	Query: "specificepithet:auritus genus:Podiceps hastissue:1" ; Times: 2
+	Query: "Takydromus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Pedioplanis gaerdesi" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "numenius arquata germany" ; Times: 1
+	Query: "Lygophis hastissue:1" ; Times: 1
+	Query: "Anser erythropus" ; Times: 1
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "specificepithet:cristatus genus:Podiceps hastissue:1" ; Times: 2
+	Query: "mesalina rubropunctata" ; Times: 4
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1850 year &lt;= 1859" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "genus:Microlophus hastissue:1" ; Times: 1
+	Query: "Gallotia hastissue:1" ; Times: 1
+	Query: "genus:rhaebo hastissue:1" ; Times: 1
+	Query: "Typhlops hastissue:1" ; Times: 1
+	Query: "specificepithet:grisegena genus:Podiceps hastissue:1" ; Times: 1
+	Query: "genus:Pelecanus preparations:skeleton" ; Times: 1
+	Query: "genus: Rhinotyphlops hastissue:1" ; Times: 1
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "family:Pythonidae preparations:skeleton" ; Times: 1
+	Query: "Desmana" ; Times: 2
+	Query: "Heloderma hastissue:1" ; Times: 1
+	Query: "crystallogobius" ; Times: 1
+	Query: "specificepithet:Bufo genus:Bufo hastissue:1" ; Times: 1
+	Query: "specificepithet:lanceolatus genus:bothrops" ; Times: 1
+	Query: "family:Aniliidae hastissue:1" ; Times: 1
+	Query: "genus:Gallotia hastissue:1" ; Times: 2
+	Query: "specificepithet:phocoena genus:phocoena" ; Times: 3
+	Query: "ptychozoon kuhli" ; Times: 1
+	Query: "Pedioplanis burchelli" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:Oceanodroma year &gt;= 1896 year &lt;= 1898" ; Times: 1
+	Query: "Hemachatus haemachatus hastissue:1" ; Times: 1
+	Query: "tamias sibiricus" ; Times: 1
+	Query: "specificepithet:niloticus genus:Crocodylus preparations:skeleton" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "genus:Psammodromus hastissue:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "varanus bengalensis hastissue:1" ; Times: 1
+	Query: "egg genus:Spheniscus" ; Times: 1
+	Query: "family=Aniliidae hastissue=1" ; Times: 1
+	Query: "vntype:specimen genus:Fluvicola class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:natrix genus:Natrix year &gt;= 1980 hastissue:1" ; Times: 3
+	Query: "Varanus niloticus hastissue:1" ; Times: 1
+	Query: "genus:Uromastyx hastissue:1 year &gt;=1950" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 96 (out of 1359 download events in this period)
+Total number of records downloaded: 1954
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 37
+	Country: Israel ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 5
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-28 ; Times: 2
+	Date: 2018-04-23 ; Times: 8
+	Date: 2018-04-22 ; Times: 3
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-20 ; Times: 3
+	Date: 2018-04-27 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 3
+	Date: 2018-04-24 ; Times: 13
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-02 ; Times: 2
+	Date: 2018-04-05 ; Times: 6
+	Date: 2018-04-04 ; Times: 1
+	Date: 2018-04-07 ; Times: 1
+	Date: 2018-04-06 ; Times: 4
+	Date: 2018-04-09 ; Times: 7
+	Date: 2018-04-08 ; Times: 6
+	Date: 2018-04-16 ; Times: 3
+	Date: 2018-04-12 ; Times: 2
+	Date: 2018-04-13 ; Times: 2
+	Date: 2018-04-10 ; Times: 3
+	Date: 2018-04-11 ; Times: 1
+	Date: 2018-04-30 ; Times: 3
+	Date: 2018-04-17 ; Times: 6
+	Date: 2018-04-15 ; Times: 1
+	Date: 2018-04-18 ; Times: 3
+	Date: 2018-04-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "genus:crotalus sex:male OR female" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "heloderma" ; Times: 2
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "thylacinus" ; Times: 1
+	Query: "Esox lucius" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "vntype:specimen specificepithet:falcinellus genus:Plegadis year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "Sibynomorphus turgidus" ; Times: 1
+	Query: "Mesalina guttulata" ; Times: 1
+	Query: "Nestor notabilis" ; Times: 1
+	Query: "Tolypeutes" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "salmo trutta" ; Times: 1
+	Query: "amia calva" ; Times: 1
+	Query: "vntype:specimen specificepithet:penelope genus:anas" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 1
+	Query: "gobius" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "specificepithet:adamanteus genus:Crotalus" ; Times: 1
+	Query: "Galbula ruficauda" ; Times: 1
+	Query: "Oligodon taeniolatus" ; Times: 1
+	Query: "bothrops atrox" ; Times: 2
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Hyla cinerea" ; Times: 1
+	Query: "Gastrophryne carolinensis" ; Times: 2
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "genus:ochotona" ; Times: 1
+	Query: "Salvelinus fontinalis" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "specificepithet:opacum genus:ambystoma stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 1
+	Query: "sibon nebulatus" ; Times: 1
+	Query: "caracara" ; Times: 1
+	Query: "Phoxinus phoxinus" ; Times: 1
+	Query: "(salvelinus fontinalis)" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:alces genus:Alces mappable:1" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "Carassius auratus" ; Times: 1
+	Query: "salmo salar" ; Times: 1
+	Query: "oncorhynchus mykiss" ; Times: 1
+	Query: "uromastyx" ; Times: 1
+	Query: "Pedioplanis burchelli" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Progne subis" ; Times: 1
+	Query: "Pedioplanis gaerdesi" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Tinca tinca" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "vntype:specimen genus:Anolis hastissue:1" ; Times: 1
+	Query: "Rhinella marina" ; Times: 2
+	Query: "Hydropsalis climacocerca" ; Times: 1
+	Query: "Tachymenis peruviana mappable:1" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "(colobus guereza)" ; Times: 1
+	Query: "Leuciscus idus" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 5
+	Query: "corvus splendens" ; Times: 1
+	Query: "genus:Farancia sex:male OR female" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 2
+	Query: "Heptapteridae" ; Times: 1
+	Query: "genus:Crotalus sex:Male OR Female" ; Times: 1
+	Query: "Siphlophis cervinus" ; Times: 1
+	Query: "Cyprinus carpio" ; Times: 1
+	Query: "Spheniscidae" ; Times: 2
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "Hyla squirella" ; Times: 1
+	Query: "Misgurnus anguillicaudatus" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+
+
+End of report.
