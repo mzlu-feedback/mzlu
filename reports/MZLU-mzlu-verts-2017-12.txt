@@ -1,0 +1,195 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for December 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 147
+Number of records retrieved in searches: 433
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 49
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Denmark ; Times: 12
+	Country: France ; Times: 36
+	Country: United Kingdom ; Times: 4
+	Country: Sweden ; Times: 2
+	Country: China ; Times: 11
+	Country: Germany ; Times: 16
+	Country: Unknown ; Times: 1
+	Country: Japan ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-31 ; Times: 4
+	Date: 2017-12-16 ; Times: 8
+	Date: 2017-12-17 ; Times: 1
+	Date: 2017-12-14 ; Times: 2
+	Date: 2017-12-15 ; Times: 1
+	Date: 2017-12-12 ; Times: 1
+	Date: 2017-12-13 ; Times: 8
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-11 ; Times: 51
+	Date: 2017-12-18 ; Times: 15
+	Date: 2017-12-19 ; Times: 1
+	Date: 2017-12-28 ; Times: 10
+	Date: 2017-12-26 ; Times: 1
+	Date: 2017-12-25 ; Times: 1
+	Date: 2017-12-24 ; Times: 2
+	Date: 2017-12-23 ; Times: 1
+	Date: 2017-12-22 ; Times: 5
+	Date: 2017-12-20 ; Times: 4
+	Date: 2017-12-05 ; Times: 3
+	Date: 2017-12-04 ; Times: 13
+	Date: 2017-12-06 ; Times: 2
+	Date: 2017-12-01 ; Times: 1
+	Date: 2017-12-03 ; Times: 3
+	Date: 2017-12-09 ; Times: 2
+	Date: 2017-12-08 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Elops saurus" ; Times: 1
+	Query: "specificepithet:triseriatus genus:crotalus hastissue:1" ; Times: 2
+	Query: "Eugerres plumieri" ; Times: 1
+	Query: "bos grunniens" ; Times: 2
+	Query: "Torpedo torpedo" ; Times: 1
+	Query: "Squatina squatina" ; Times: 1
+	Query: "Porichthys porosissimus" ; Times: 1
+	Query: "Raja asterias" ; Times: 2
+	Query: "genus:Hynobius specificepithet:nigrescens" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Raja miraletus" ; Times: 2
+	Query: "Mullus barbatus barbatus" ; Times: 1
+	Query: "Dasyurus geoffroii" ; Times: 1
+	Query: "Heterodontus portusjacksoni" ; Times: 2
+	Query: "specificepithet:eximia family:Hylidae hastissue:1" ; Times: 2
+	Query: "Mustelus punctulatus" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 7
+	Query: "aratinga wagleri" ; Times: 4
+	Query: "specificepithet:enyo genus:crotalus hastissue:1" ; Times: 1
+	Query: "Dasyatis pastinaca" ; Times: 2
+	Query: "Oligodon hastissue:1" ; Times: 2
+	Query: "Gymnura marmorata" ; Times: 2
+	Query: "Rhinobatos rhinobatos" ; Times: 2
+	Query: "aratinga erythrogenys" ; Times: 10
+	Query: "genus=Sphenodon hastissue=1" ; Times: 2
+	Query: "Narcine maculata" ; Times: 2
+	Query: "lacerta graeca" ; Times: 1
+	Query: "family:Schindleriidae" ; Times: 1
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "Mullus barbatus" ; Times: 1
+	Query: "Dendroaspis angusticeps" ; Times: 2
+	Query: "specificepithet:tergeminus genus:sistrurus hastissue:1" ; Times: 1
+	Query: "genus:Sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Oreochromis niloticus" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera" ; Times: 1
+	Query: "Tapirus indicus indicus" ; Times: 1
+	Query: "Pelobates fuscus mappable:1" ; Times: 1
+	Query: "Dicentrarchus labrax mappable:1" ; Times: 1
+	Query: "pseudocalotes" ; Times: 1
+	Query: "Upeneichthys lineatus" ; Times: 2
+	Query: "Mullus surmuletus" ; Times: 1
+	Query: "Gobiesox strumosus" ; Times: 1
+	Query: "NRm" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "criniger java" ; Times: 2
+	Query: "Oxynotus centrina" ; Times: 2
+	Query: "glyptemys muhlenbergii" ; Times: 1
+	Query: "Naja sumatrana" ; Times: 2
+	Query: "bres java" ; Times: 3
+	Query: "rana latastei" ; Times: 5
+	Query: "crotalus polystictus" ; Times: 1
+	Query: "vntype:specimen specificepithet:physalus genus:Balaenoptera year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "halichoerus grypus" ; Times: 1
+	Query: "Isistius brasiliensis" ; Times: 3
+	Query: "4953 Aves" ; Times: 1
+	Query: "Heleophryne" ; Times: 2
+	Query: "specificepithet:durissus genus:crotalus hastissue:1" ; Times: 4
+	Query: "coregonus oxyrinchus" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 3
+	Query: "ablepharus pannonicus" ; Times: 1
+	Query: "panthera tigris" ; Times: 3
+	Query: "Gerres cinereus" ; Times: 1
+	Query: "genus:Sphyrna" ; Times: 2
+	Query: "Tapirus indicus" ; Times: 3
+	Query: "NRM" ; Times: 1
+	Query: "Trisopterus esmarkii mappable:1" ; Times: 1
+	Query: "ardeidae skeleton ardea goliath" ; Times: 1
+	Query: "specificepithet:taranta genus:agapornis" ; Times: 2
+	Query: "Hyperoplus lanceolatus mappable:1" ; Times: 1
+	Query: "Scyliorhinus stellaris" ; Times: 1
+	Query: "Galeorhinus galeus" ; Times: 3
+	Query: "Calliophis melanurus" ; Times: 3
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "Stereochilus South Carolina" ; Times: 1
+	Query: "Agonostomus monticola" ; Times: 1
+	Query: "genus:Haematopus hastissue:1" ; Times: 1
+	Query: "Heterodon platirhinos stateprovince:&#34;SOuth Carolina&#34;" ; Times: 1
+	Query: "Tapirus terrestris terrestris" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "specificepithet:gryphus genus:Vultur year &gt;= 1800 year &lt;= 1970" ; Times: 1
+	Query: "Galeus melastomus" ; Times: 3
+	Query: "Parupeneus multifasciatus" ; Times: 1
+	Query: "specificepithet:mitchelli genus:crotalus hastissue:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 674 download events in this period)
+Total number of records downloaded: 9893
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: China ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-12-05 ; Times: 4
+	Date: 2017-12-03 ; Times: 1
+	Date: 2017-12-27 ; Times: 4
+	Date: 2017-12-31 ; Times: 2
+	Date: 2017-12-21 ; Times: 1
+	Date: 2017-12-16 ; Times: 1
+	Date: 2017-12-04 ; Times: 1
+	Date: 2017-12-14 ; Times: 5
+	Date: 2017-12-01 ; Times: 4
+	Date: 2017-12-13 ; Times: 1
+	Date: 2017-12-10 ; Times: 1
+	Date: 2017-12-02 ; Times: 1
+	Date: 2017-12-12 ; Times: 2
+	Date: 2017-12-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Sciurus aberti" ; Times: 1
+	Query: "Mustela nivalis mappable:1" ; Times: 2
+	Query: "Crotalus viridis" ; Times: 1
+	Query: "arremonops" ; Times: 1
+	Query: "Falco sparverius vntype:specimen" ; Times: 1
+	Query: "class:Elasmobranchii" ; Times: 2
+	Query: "lacerta graeca" ; Times: 1
+	Query: "family:Schindleriidae" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 2
+	Query: "clangula hyemalis" ; Times: 1
+	Query: "Crotalus oreganus" ; Times: 1
+	Query: "Naja naja" ; Times: 1
+	Query: "genus:Naja" ; Times: 1
+	Query: "preparations:egg" ; Times: 1
+	Query: "anolis carolinensis" ; Times: 1
+	Query: "Malacoptila" ; Times: 1
+	Query: "Rhinobatos" ; Times: 1
+	Query: "genus:didelphis hastissue:1" ; Times: 1
+	Query: "hastissue:1 Miniopterus" ; Times: 2
+	Query: "Mustela erminea mappable:1" ; Times: 1
+	Query: "panthera tigris" ; Times: 2
+	Query: "Odobenus rosmarus vntype:specimen" ; Times: 1
+	Query: "(Microdesmidae OR Gobiidae OR Ptereleotridae OR Kraemeriidae OR Schindleriidae OR Xenisthmidae OR Odontobutidae OR Rhyacichthyidae OR Milyeringidae OR Eleotridae OR Thalasseleotrididae OR Trichonotidae OR Apogonidae OR Kurtidae) hastissue:1" ; Times: 1
+	Query: "cnemidophorus" ; Times: 1
+
+
+End of report.
