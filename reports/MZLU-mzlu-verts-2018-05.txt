@@ -1,0 +1,450 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 345
+Number of records retrieved in searches: 3165
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: United States ; Times: 154
+	Country: Belarus ; Times: 1
+	Country: Italy ; Times: 28
+	Country: Chile ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Singapore ; Times: 4
+	Country: India ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 107
+	Country: Morocco ; Times: 1
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: France ; Times: 13
+	Country: Norway ; Times: 1
+	Country: Spain ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 10
+	Date: 2018-05-29 ; Times: 4
+	Date: 2018-05-20 ; Times: 6
+	Date: 2018-05-21 ; Times: 6
+	Date: 2018-05-22 ; Times: 1
+	Date: 2018-05-23 ; Times: 38
+	Date: 2018-05-24 ; Times: 38
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-27 ; Times: 1
+	Date: 2018-05-06 ; Times: 2
+	Date: 2018-05-07 ; Times: 6
+	Date: 2018-05-04 ; Times: 59
+	Date: 2018-05-05 ; Times: 61
+	Date: 2018-05-02 ; Times: 7
+	Date: 2018-05-03 ; Times: 3
+	Date: 2018-05-01 ; Times: 4
+	Date: 2018-05-08 ; Times: 16
+	Date: 2018-05-09 ; Times: 2
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 2
+	Date: 2018-05-15 ; Times: 2
+	Date: 2018-05-14 ; Times: 9
+	Date: 2018-05-17 ; Times: 8
+	Date: 2018-05-16 ; Times: 37
+	Date: 2018-05-11 ; Times: 5
+	Date: 2018-05-10 ; Times: 1
+	Date: 2018-05-13 ; Times: 1
+	Date: 2018-05-12 ; Times: 2
+	Date: 2018-05-19 ; Times: 4
+	Date: 2018-05-18 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Diplodactylidae hastissue:1" ; Times: 3
+	Query: "specificepithet:temporaria genus:Rana institutioncode:MZLU" ; Times: 3
+	Query: "Alsodes nodosus" ; Times: 1
+	Query: "specificepithet:malacca genus:Lonchura" ; Times: 1
+	Query: "boophis microtympanum" ; Times: 1
+	Query: "sterna hirundinacea" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "specificepithet:astrild genus:Estrilda" ; Times: 1
+	Query: "specificepithet:ovalis genus:Elachistocleis institutioncode:MZLU" ; Times: 3
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "specificepithet:inquisitor genus:Tityra" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Sporophila" ; Times: 1
+	Query: "specificepithet:lineata genus:Dacnis" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Hemithraupis" ; Times: 1
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Helodermatidae hastissue:1" ; Times: 1
+	Query: "specificepithet:viridis genus:Psarocolius" ; Times: 1
+	Query: "genus:Rhinoderma specificepithet:darwinii" ; Times: 1
+	Query: "chlamyphorus" ; Times: 1
+	Query: "specificepithet:chopi genus:Gnorimopsar" ; Times: 1
+	Query: "specificepithet:cinerea genus:Hyla institutioncode:MZLU" ; Times: 3
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "specificepithet:scutatus genus:Pyroderus" ; Times: 1
+	Query: "specificepithet:castaneus genus:Pachyramphus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Sakesphorus" ; Times: 1
+	Query: "specificepithet:bufo genus:Bufo institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:hoeschi family:Bufonidae" ; Times: 2
+	Query: "genus:Bombina specificepithet:pachypus" ; Times: 1
+	Query: "specificepithet:grayii genus:Strongylopus institutioncode:MZLU" ; Times: 3
+	Query: "genus:Mastigodryas country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:nigroviridis genus:Tangara" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "specificepithet:genibarbis genus:Thryothorus" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 1
+	Query: "specificepithet:schrankii genus:Tangara" ; Times: 1
+	Query: "specificepithet:pareola genus:Chiroxiphia" ; Times: 1
+	Query: "specificepithet:cayana genus:Tangara" ; Times: 1
+	Query: "specificepithet:colonus genus:Colonia" ; Times: 1
+	Query: "specificepithet:viridis genus:Pachyramphus" ; Times: 1
+	Query: "specificepithet:taciturnus genus:Arremon" ; Times: 1
+	Query: "Falco catalognumber:3013" ; Times: 1
+	Query: "specificepithet:melanops genus:Trichothraupis" ; Times: 1
+	Query: "specificepithet:mystaceus genus:Platyrinchus" ; Times: 1
+	Query: "specificepithet:mossambicus genus:Breviceps institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:melanonota genus:Pipraeidea" ; Times: 1
+	Query: "specificepithet:tricolor genus:Perissocephalus" ; Times: 1
+	Query: "specificepithet:fasciata genus:Atticora" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "specificepithet:mascareniensis genus:Ptychadena institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:totanus genus:Tringa hastissue:1" ; Times: 4
+	Query: "specificepithet:icterus genus:Icterus" ; Times: 1
+	Query: "specificepithet:nengeta genus:Fluvicola" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 6
+	Query: "specificepithet:melanostictus genus:Duttaphrynus institutioncode:MZLU" ; Times: 3
+	Query: "ara ararauna" ; Times: 1
+	Query: "atheris hastissue:1" ; Times: 1
+	Query: "Liophis typhlus hastissue:1" ; Times: 2
+	Query: "specificepithet:foetidus genus:Gymnoderus" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Gymnomystax" ; Times: 1
+	Query: "specificepithet:ruber genus:phoenicopterus preparations:Egg" ; Times: 1
+	Query: "specificepithet:nigrogularis genus:Icterus" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1850 year &lt;= 1859" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra" ; Times: 6
+	Query: "specificepithet:velia genus:Tangara" ; Times: 1
+	Query: "specificepithet:rubiginosus genus:Automolus" ; Times: 1
+	Query: "specificepithet:nigricollis genus:Phoenicircus" ; Times: 1
+	Query: "specificepithet:pardalis genus:Tropidophis family:Tropidophiidae" ; Times: 1
+	Query: "specificepithet:grossus genus:Saltator" ; Times: 1
+	Query: "specificepithet:subpudica genus:Synallaxis" ; Times: 1
+	Query: "alsodes nodosus" ; Times: 3
+	Query: "dispholidus" ; Times: 1
+	Query: "specificepithet:atratus genus:Cygnus mappable:1" ; Times: 1
+	Query: "specificepithet:calamita genus:Epidalea institutioncode:MZLU" ; Times: 3
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "specificepithet:hypospodia genus:Synallaxis" ; Times: 1
+	Query: "specificepithet:nematura genus:Lochmias" ; Times: 1
+	Query: "cyclanorbis" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus mappable:1" ; Times: 1
+	Query: "specificepithet:pileata genus:Nemosia" ; Times: 1
+	Query: "specificepithet:colma genus:Formicarius" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1870 year &lt;= 1879" ; Times: 2
+	Query: "Lutra lutra" ; Times: 2
+	Query: "specificepithet:lictor genus:Pitangus" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:coronatus genus:Onychorhynchus" ; Times: 1
+	Query: "specificepithet:cristatus genus:Tachyphonus" ; Times: 1
+	Query: "specificepithet:signifera genus:Crinia institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:rosei family:Bufonidae" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 2
+	Query: "specificepithet:vociferans genus:Lipaugus" ; Times: 1
+	Query: "specificepithet:carnifex genus:Phoenicircus" ; Times: 1
+	Query: "specificepithet:mexicana genus:Tangara" ; Times: 1
+	Query: "specificepithet:purpurata genus:Querula" ; Times: 1
+	Query: "philothamnus natalensis" ; Times: 1
+	Query: "crex vntype:specimen hastissue:1" ; Times: 1
+	Query: "specificepithet:leucocephala genus:Arundinicola" ; Times: 1
+	Query: "specificepithet:herbicola genus:Emberizoides" ; Times: 1
+	Query: "specificepithet:galeata genus:Antilophia" ; Times: 1
+	Query: "capensibufo" ; Times: 1
+	Query: "specificepithet:albicapilla genus:cossypha" ; Times: 1
+	Query: "Kaloula borealis" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Anser mappable:1" ; Times: 1
+	Query: "specificepithet:macrostomus genus:Batrachophrynus institutioncode:MZLU" ; Times: 3
+	Query: "Anhydrophryne" ; Times: 1
+	Query: "specificepithet:aureopectus genus:Pipreola" ; Times: 1
+	Query: "specificepithet:angolensis genus:Oryzoborus" ; Times: 1
+	Query: "specificepithet:aureola genus:Pipra" ; Times: 1
+	Query: "specificepithet:natalensis genus:Phrynobatrachus institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:coronata genus:Paroaria" ; Times: 1
+	Query: "specificepithet:nigromaculatus genus:Pelophylax institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:rubrocapilla genus:Pipra" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1840 year &lt;= 1849" ; Times: 1
+	Query: "specificepithet:japonica genus:Rana institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:flaveola genus:Sicalis" ; Times: 1
+	Query: "specificepithet:hochstetteri genus:Leiopelma institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:decumanus genus:Psarocolius" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "specificepithet:cayana genus:Cotinga" ; Times: 1
+	Query: "specificepithet:pictus genus:Discoglossus institutioncode:MZLU" ; Times: 3
+	Query: "Lissotriton vulgaris" ; Times: 2
+	Query: "specificepithet:caeruleus genus:Cyanerpes" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1880 year &lt;= 1889" ; Times: 1
+	Query: "Phaethornis squalidus" ; Times: 2
+	Query: "specificepithet:pileatus genus:Coryphospingus" ; Times: 1
+	Query: "specificepithet:fumigatus genus:Turdus" ; Times: 1
+	Query: "specificepithet:Molurus genus:Python hastissue:1" ; Times: 1
+	Query: "specificepithet:igniventris genus:Anisognathus" ; Times: 1
+	Query: "Heleophryne purcelli" ; Times: 1
+	Query: "specificepithet:moschata genus:Cairina mappable:1" ; Times: 1
+	Query: "specificepithet:campanisona genus:Chamaeza" ; Times: 1
+	Query: "specificepithet:pipa genus:Pipa institutioncode:MZLU" ; Times: 3
+	Query: "Micrurus ibiboboca" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 2
+	Query: "hyphessobrycon inconstans" ; Times: 1
+	Query: "specificepithet:canadensis genus:Caryothraustes" ; Times: 1
+	Query: "specificepithet:gularis genus:Paroaria" ; Times: 1
+	Query: "specificepithet:saturninus genus:Mimus" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "specificepithet:ruficapillus genus:Schistochlamys" ; Times: 1
+	Query: "Hynobius naevius" ; Times: 1
+	Query: "specificepithet:violaceus genus:Cyanocorax" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "specificepithet:leptopus genus:Batrachyla institutioncode:MZLU" ; Times: 3
+	Query: "genus:poyntonophrynus hastissue:1" ; Times: 1
+	Query: "specificepithet:angustirostris genus:Lepidocolaptes" ; Times: 1
+	Query: "porphyrio flavirostris" ; Times: 1
+	Query: "specificepithet:yetapa genus:Gubernetes" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "specificepithet:purcelli genus:Heleophryne institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:averano genus:Procnias" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Heleophryne regis" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Phacellodomus" ; Times: 1
+	Query: "specificepithet:montana genus:Buthraupis" ; Times: 1
+	Query: "specificepithet:rufimarginatus genus:Herpsilochmus" ; Times: 1
+	Query: "genus:Caecilia specificepithet:gracilis" ; Times: 1
+	Query: "Hynobius nigrescens" ; Times: 2
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "specificepithet:palliatus genus:Thamnophilus" ; Times: 1
+	Query: "specificepithet:haemorrhous genus:Cacicus" ; Times: 1
+	Query: "Ciconia nigra" ; Times: 1
+	Query: "specificepithet:darwinii genus:Rhinoderma institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:truei genus:Ascaphus institutioncode:MZLU" ; Times: 4
+	Query: "Avocettula recurvirostris" ; Times: 2
+	Query: "Thylacinus cynocephalus" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "mesalina rubropunctata" ; Times: 2
+	Query: "specificepithet:trochilirostris genus:Campylorhamphus" ; Times: 1
+	Query: "specificepithet:rosei genus:capensibufo" ; Times: 1
+	Query: "Leiopelma archeyi" ; Times: 1
+	Query: "Carphodactylidae hastissue:1" ; Times: 4
+	Query: "specificepithet:militaris genus:Haematoderus" ; Times: 1
+	Query: "specificepithet:affinis genus:Euphonia" ; Times: 1
+	Query: "specificepithet:simplex genus:Rhytipterna" ; Times: 1
+	Query: "specificepithet:rupicola genus:Rupicola" ; Times: 1
+	Query: "specificepithet:cristatellus genus:Cyanocorax" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1860 year &lt;= 1869" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "specificepithet:irregularis genus:philothamnus" ; Times: 1
+	Query: "specificepithet:indicus genus:Anser mappable:1" ; Times: 1
+	Query: "specificepithet:torquata genus:Myrmornis" ; Times: 1
+	Query: "specificepithet:albifrons genus:Pithys" ; Times: 1
+	Query: "specificepithet:olivaceus genus:Rhynchocyclus" ; Times: 1
+	Query: "specificepithet:graduacauda genus:Icterus" ; Times: 1
+	Query: "specificepithet:figulus genus:Furnarius" ; Times: 1
+	Query: "specificepithet:nisus genus:Accipiter month &gt;= 6 month &lt;= 9" ; Times: 1
+	Query: "specificepithet:punctata genus:Tangara" ; Times: 1
+	Query: "specificepithet:oxyrhynchus genus:Ptychadena institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:chrysops genus:Cyanocorax" ; Times: 1
+	Query: "specificepithet:violacea genus:Euphonia" ; Times: 1
+	Query: "specificepithet:fitzingeri genus:Craugastor institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:cinnamomea genus:Synallaxis" ; Times: 1
+	Query: "Heloderma horridum hastissue:1" ; Times: 2
+	Query: "Echinotriton andersoni" ; Times: 2
+	Query: "specificepithet:militaris genus:Sturnella" ; Times: 1
+	Query: "specificepithet:surinamus genus:Tachyphonus" ; Times: 1
+	Query: "specificepithet:atricollis genus:Saltator" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Tolmomyias" ; Times: 1
+	Query: "specificepithet:ephippium genus:Brachycephalus institutioncode:MZLU" ; Times: 3
+	Query: "Liophis poecilogyrus hastissue:1" ; Times: 1
+	Query: "Liophis epinephelus hastissue:1" ; Times: 2
+	Query: "Rhombophryne testudo" ; Times: 2
+	Query: "specificepithet:ornata genus:Ceratophrys institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:cotinga genus:Cotinga" ; Times: 1
+	Query: "specificepithet:taeniata genus:Batrachyla institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:cinctus genus:parus class:aves" ; Times: 2
+	Query: "specificepithet:cinerea genus:Batara" ; Times: 1
+	Query: "specificepithet:chilensis genus:Tangara" ; Times: 1
+	Query: "specificepithet:buergeri genus:Buergeria institutioncode:MZLU" ; Times: 3
+	Query: "dendroaspis angusticeps" ; Times: 8
+	Query: "specificepithet:leuconota genus:Pyriglena" ; Times: 1
+	Query: "specificepithet:affinis genus:Cyanocorax" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "specificepithet:coraya genus:Thryothorus" ; Times: 1
+	Query: "Caecilia gracilis" ; Times: 1
+	Query: "specificepithet:gutturalis genus:Corapipo" ; Times: 1
+	Query: "specificepithet:cayennensis genus:Euphonia" ; Times: 1
+	Query: "Gypaetus" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "specificepithet:cygnoides genus:Anser mappable:1" ; Times: 6
+	Query: "porphyrula flavirostris" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella institutioncode:MZLU" ; Times: 3
+	Query: "specificepithet:lagopus genus:Vulpes year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "Euproctus montanus" ; Times: 1
+	Query: "specificepithet:flavovirens genus:Phylloscartes" ; Times: 1
+	Query: "specificepithet:albiloris genus:Polioptila" ; Times: 1
+	Query: "specificepithet:ocellatus genus:Leptodactylus institutioncode:MZLU" ; Times: 3
+	Query: "Mertensiella caucasica" ; Times: 1
+	Query: "specificepithet:japonica genus:Coturnix mappable:1" ; Times: 1
+	Query: "genus:Echinotriton specificepithet:andersoni" ; Times: 1
+	Query: "Siphonops annulatus" ; Times: 1
+	Query: "specificepithet:galericulata genus:Aix mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 102 (out of 1178 download events in this period)
+Total number of records downloaded: 1084
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 26
+	Country: Spain ; Times: 39
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-28 ; Times: 2
+	Date: 2018-05-29 ; Times: 1
+	Date: 2018-05-20 ; Times: 3
+	Date: 2018-05-21 ; Times: 3
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 5
+	Date: 2018-05-24 ; Times: 1
+	Date: 2018-05-25 ; Times: 1
+	Date: 2018-05-26 ; Times: 1
+	Date: 2018-05-06 ; Times: 4
+	Date: 2018-05-07 ; Times: 11
+	Date: 2018-05-04 ; Times: 2
+	Date: 2018-05-05 ; Times: 1
+	Date: 2018-05-02 ; Times: 4
+	Date: 2018-05-03 ; Times: 2
+	Date: 2018-05-01 ; Times: 3
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 7
+	Date: 2018-05-31 ; Times: 3
+	Date: 2018-05-30 ; Times: 6
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-13 ; Times: 5
+	Date: 2018-05-19 ; Times: 12
+	Date: 2018-05-18 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "genus:farancia sex:male OR female" ; Times: 1
+	Query: "Caretta caretta" ; Times: 1
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Chelonia mydas" ; Times: 1
+	Query: "Eurycea spelaea" ; Times: 1
+	Query: "Euproctus platycephalus" ; Times: 1
+	Query: "Hynobius naevius" ; Times: 1
+	Query: "Ambystoma opacum" ; Times: 1
+	Query: "Hypopachus variolosus" ; Times: 1
+	Query: "Necturus maculosus" ; Times: 1
+	Query: "callitrichidae" ; Times: 1
+	Query: "ensatina" ; Times: 1
+	Query: "Leptophis mexicanus" ; Times: 1
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "columbina minuta" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "genus:Atropoides OR Cerrophidion OR Bothriechis OR Lachesis OR Mixcoatlus OR Ophryacus OR porthidium" ; Times: 1
+	Query: "Poephila acuticauda" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 1
+	Query: "Batrachoseps attenuatus" ; Times: 1
+	Query: "ara ararauna" ; Times: 2
+	Query: "Calotriton asper" ; Times: 1
+	Query: "Cynops pyrrhogaster" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "Lacertidae" ; Times: 1
+	Query: "Amphiuma means" ; Times: 1
+	Query: "genus:Rallus hastissue:1" ; Times: 1
+	Query: "ophiophagus Hannah" ; Times: 1
+	Query: "funambulus" ; Times: 1
+	Query: "sistrurus" ; Times: 1
+	Query: "Desmognathus monticola" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "podocnemis expansa" ; Times: 1
+	Query: "specificepithet:musculus genus:Balaenoptera" ; Times: 2
+	Query: "specificepithet:mollissima genus:Somateria" ; Times: 1
+	Query: "crocodylus niloticus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 1
+	Query: "Leptophis ahaetulla" ; Times: 1
+	Query: "Thamnophis sirtalis infernalis" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "specificepithet:albicapilla genus:cossypha" ; Times: 1
+	Query: "Plethodon virginia" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 1
+	Query: "sistrurus tergeminus" ; Times: 1
+	Query: "crotalus horridus" ; Times: 1
+	Query: "Hynobius nebulosus" ; Times: 1
+	Query: "Cynops ensicauda" ; Times: 1
+	Query: "Amphiuma tridactylum" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "Mertensiella caucasica" ; Times: 1
+	Query: "Columbina talpacoti" ; Times: 1
+	Query: "Arctocephalus pusillus" ; Times: 1
+	Query: "genus:urocyon" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "&#34;Cochlearius cochlearius&#34; preparations:skeleton" ; Times: 1
+	Query: "Proteus anguinus" ; Times: 1
+	Query: "Rana palustris" ; Times: 1
+	Query: "macropus giganteus" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "Hynobius nigrescens" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Onychodactylus japonicus" ; Times: 2
+	Query: "macropus rufus" ; Times: 1
+	Query: "Columbina squammata" ; Times: 1
+	Query: "order:squamata country:&#34;nigeria&#34;" ; Times: 1
+	Query: "kinosternon scorpioides" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 1
+	Query: "Ambystoma gracile" ; Times: 1
+	Query: "Pleurodeles waltl" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "dermochelys coriacea" ; Times: 1
+	Query: "Euproctus montanus" ; Times: 1
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Eurycea bislineata" ; Times: 1
+	Query: "Pseudoeurycea cephalica" ; Times: 3
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "Cryptobranchus alleganiensis" ; Times: 1
+	Query: "Boa constrictor" ; Times: 1
+	Query: "Ambystoma tigrinum" ; Times: 1
+	Query: "Eretmochelys imbricata" ; Times: 1
+	Query: "Necturus punctatus" ; Times: 1
+	Query: "genus:agkistrodon" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Serpentes" ; Times: 1
+	Query: "cryptobranchus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Ambystoma talpoideum" ; Times: 1
+
+
+End of report.
