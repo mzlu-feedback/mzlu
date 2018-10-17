@@ -1,0 +1,283 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 222
+Number of records retrieved in searches: 1412
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: France ; Times: 6
+	Country: Peru ; Times: 88
+	Country: Argentina ; Times: 1
+	Country: Australia ; Times: 3
+	Country: Iran ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 2
+	Country: Belgium ; Times: 6
+	Country: Spain ; Times: 1
+	Country: United States ; Times: 75
+	Country: Switzerland ; Times: 3
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 1
+	Country: Portugal ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Austria ; Times: 5
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-01 ; Times: 7
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-29 ; Times: 3
+	Date: 2018-07-08 ; Times: 4
+	Date: 2018-07-09 ; Times: 5
+	Date: 2018-07-04 ; Times: 7
+	Date: 2018-07-05 ; Times: 4
+	Date: 2018-07-06 ; Times: 11
+	Date: 2018-07-26 ; Times: 8
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-24 ; Times: 86
+	Date: 2018-07-03 ; Times: 17
+	Date: 2018-07-13 ; Times: 1
+	Date: 2018-07-12 ; Times: 6
+	Date: 2018-07-11 ; Times: 4
+	Date: 2018-07-10 ; Times: 2
+	Date: 2018-07-17 ; Times: 6
+	Date: 2018-07-16 ; Times: 4
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-31 ; Times: 10
+	Date: 2018-07-30 ; Times: 7
+	Date: 2018-07-19 ; Times: 9
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-23 ; Times: 1
+	Date: 2018-07-20 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Ensifera ensifera" ; Times: 2
+	Query: "1435 psittacidae" ; Times: 1
+	Query: "Anas georgica" ; Times: 2
+	Query: "sterna hirundinacea" ; Times: 2
+	Query: "Phoenicopterus chilensis" ; Times: 2
+	Query: "Stercorarius longicaudus mappable:1" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella hastissue:1" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 2
+	Query: "Crypturellus obsoletus" ; Times: 2
+	Query: "Eupetomena macroura" ; Times: 2
+	Query: "cyrtopodion" ; Times: 1
+	Query: "Gubernatrix cristata" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 2
+	Query: "family:Lacertidae institutioncode:MZLU hastissue:1" ; Times: 7
+	Query: "serrasalmus brandtii" ; Times: 1
+	Query: "Crypturellus variegatus" ; Times: 2
+	Query: "genus:Chironius hastissue:1" ; Times: 1
+	Query: "Numenius phaeopus mappable:1" ; Times: 1
+	Query: "specificepithet:nebulatus genus:Sibon hastissue:1" ; Times: 1
+	Query: "labeo senegalensis" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "Opisthocomus hoazin" ; Times: 1
+	Query: "genus:Tropidophis family:Tropidophiidae hastissue:1" ; Times: 1
+	Query: "genus:euphractus preparations:skeleton" ; Times: 16
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "Phaethon aethereus" ; Times: 2
+	Query: "specificepithet:microcephalum genus:leposternon" ; Times: 2
+	Query: "anser indicus" ; Times: 2
+	Query: "specificepithet:ruber genus:Phoenicopterus year &gt;= 1870 year &lt;= 1910" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 2
+	Query: "Coeligena torquata" ; Times: 2
+	Query: "genus:cryptobranchus stateprovince:&#34;pennsylvania&#34;" ; Times: 2
+	Query: "specificepithet:ciconia genus:Ciconia" ; Times: 3
+	Query: "Didunculus strigirostris" ; Times: 1
+	Query: "Eirenis modestus" ; Times: 1
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "class:Aves country:&#34;Uzbekistan&#34; hastissue:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1850 year &lt;= 1859" ; Times: 1
+	Query: "Leptotila rufaxilla" ; Times: 2
+	Query: "Chlorostilbon notatus" ; Times: 2
+	Query: "Mesoplodon bidens" ; Times: 3
+	Query: "Columba livia mappable:1" ; Times: 1
+	Query: "Gubernatrix" ; Times: 1
+	Query: "pyrrhura leucotis" ; Times: 1
+	Query: "Crotophaga major" ; Times: 1
+	Query: "specificepithet:aeneus genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "Sicalis flaveola mappable:1" ; Times: 1
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Dendrocitta vagabunda India" ; Times: 1
+	Query: "Stercorarius pomarinus mappable:1" ; Times: 1
+	Query: "Hydropsalis climacocerca" ; Times: 2
+	Query: "genus:siphlophis" ; Times: 1
+	Query: "Anser indicus" ; Times: 4
+	Query: "genus:Salamandra specificepithet:atra" ; Times: 3
+	Query: "vntype:specimen genus:Cnemotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Panthera uncia" ; Times: 4
+	Query: "Streptoprocne zonaris" ; Times: 2
+	Query: "Lutra canadensis" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 2
+	Query: "Anguis" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1860 year &lt;= 1869" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Anthracothorax nigricollis" ; Times: 2
+	Query: "Discosura popelairii" ; Times: 2
+	Query: "Dendrocygna viduata" ; Times: 2
+	Query: "Discosura langsdorffi" ; Times: 2
+	Query: "Lesbia victoriae" ; Times: 2
+	Query: "specificepithet:rapicauda genus:Thecadactylus hastissue:1" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 2
+	Query: "Gadus morhua" ; Times: 1
+	Query: "Pterophanes cyanopterus" ; Times: 2
+	Query: "Polytmus theresiae" ; Times: 2
+	Query: "vipera aspis" ; Times: 1
+	Query: "Ptychozoon kuhli" ; Times: 3
+	Query: "lissotriton vulgaris" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1870 year &lt;= 1879" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 2
+	Query: "family:Hystricidae hastissue:1" ; Times: 4
+	Query: "Columbina minuta" ; Times: 2
+	Query: "vntype:specimen genus:xolmis class:Aves country:&#34;BraZil&#34;" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 2
+	Query: "genus:Caecilia " ; Times: 1
+	Query: "Ara ararauna mappable:1" ; Times: 1
+	Query: "genus:cnemotriccus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Phaethornis malaris" ; Times: 2
+	Query: "Tachybaptus dominicus" ; Times: 2
+	Query: "Dendrocygna bicolor mappable:1" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:sterna country:&#34;chile&#34;" ; Times: 1
+	Query: "specificepithet:minor genus:dendrocopos hastissue:1" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 2
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 3
+	Query: "Psittacidae 5862" ; Times: 1
+	Query: "Capensibufo rosei" ; Times: 1
+	Query: "elapoidis" ; Times: 1
+	Query: "genus:Gonocephalus country:&#34;Indonesia&#34;" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 2
+	Query: "Thaumastura cora" ; Times: 1
+	Query: "Meleagris gallopavo Linnaeus" ; Times: 1
+	Query: "Lontra felina" ; Times: 3
+	Query: "family:Gerrhosauridae hastissue:1" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 2
+	Query: "Moschus moschiferus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1840 year &lt;= 1849" ; Times: 1
+	Query: "Cairina moschata mappable:1" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 2
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 2
+	Query: "vntype:specimen genus:MUSCIPIPRA class:Aves country:&#34;BraZil&#34;" ; Times: 1
+	Query: "specificepithet:pullatus genus:Spilotes hastissue:1" ; Times: 1
+	Query: "specificepithet:cherrug genus:Falco" ; Times: 4
+	Query: "elaphe situla" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 2
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "vipera berus" ; Times: 1
+	Query: "genus:breviceps hastissue:1" ; Times: 1
+	Query: "egg genus:Spheniscus" ; Times: 2
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 2
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Lygophis" ; Times: 1
+	Query: "Podiceps major" ; Times: 2
+	Query: "Chaetocercus mulsant" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 50 (out of 977 download events in this period)
+Total number of records downloaded: 627
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 19
+	Country: Germany ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 8
+	Country: Argentina ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Russia ; Times: 2
+	Country: Bulgaria ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 5
+	Date: 2018-07-12 ; Times: 3
+	Date: 2018-07-18 ; Times: 2
+	Date: 2018-07-17 ; Times: 7
+	Date: 2018-07-09 ; Times: 3
+	Date: 2018-07-14 ; Times: 4
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 1
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-31 ; Times: 9
+	Date: 2018-07-19 ; Times: 2
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus oreganus" ; Times: 1
+	Query: "Platyurus platyurus" ; Times: 1
+	Query: "specificepithet:sialis genus:Sialia" ; Times: 1
+	Query: "specificepithet:magna genus:Sturnella" ; Times: 1
+	Query: "spea hammondii" ; Times: 1
+	Query: "Cosymbotus platyurus" ; Times: 1
+	Query: "Hemidactylus turcicus" ; Times: 1
+	Query: "specificepithet:californica genus:myliobatis" ; Times: 1
+	Query: "Hypsiboas crepitans" ; Times: 1
+	Query: "specificepithet:pusilla genus:Spizella" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "Caloenas nicobarica" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Lissotriton vulgaris" ; Times: 1
+	Query: "specificepithet:lacertina genus:Siren" ; Times: 1
+	Query: "Vipera ursinii" ; Times: 1
+	Query: "genus:eurocephalus" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "Gubernatrix" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "Crotalus enyo" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "genus:Gallinago hastissue:1" ; Times: 1
+	Query: "Boiga multomaculata" ; Times: 1
+	Query: "genus:cnemotriccus country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oxyrhopus" ; Times: 1
+	Query: "Hypsiboas faber" ; Times: 1
+	Query: "chromis vntype:specimen genus:chromis hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;SOUTH CAROLINA&#34;" ; Times: 1
+	Query: "crotalus viridis" ; Times: 1
+	Query: "Pinicola enucleator" ; Times: 1
+	Query: "Santa Catarina" ; Times: 1
+	Query: "Caloenas" ; Times: 1
+	Query: "specificepithet:marina genus:Rhinella" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "country:&#34;Ukraine&#34; continent:Europe" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "family:chamaeleonidae hastissue:1" ; Times: 1
+	Query: "specificepithet:turcicus genus:hemidactylus" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "Craugastor fitzingeri" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Regulus calendula" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+
+
+End of report.
