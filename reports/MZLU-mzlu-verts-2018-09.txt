@@ -1,0 +1,288 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 195
+Number of records retrieved in searches: 2182
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Iran ; Times: 3
+	Country: Germany ; Times: 7
+	Country: Belgium ; Times: 1
+	Country: Ukraine ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Turkey ; Times: 2
+	Country: United States ; Times: 71
+	Country: Sweden ; Times: 7
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 49
+	Country: India ; Times: 4
+	Country: United Kingdom ; Times: 10
+	Country: Austria ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: South Korea ; Times: 1
+	Country: Cyprus ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-24 ; Times: 18
+	Date: 2018-09-25 ; Times: 14
+	Date: 2018-09-26 ; Times: 3
+	Date: 2018-09-01 ; Times: 3
+	Date: 2018-09-20 ; Times: 42
+	Date: 2018-09-21 ; Times: 5
+	Date: 2018-09-22 ; Times: 3
+	Date: 2018-09-05 ; Times: 9
+	Date: 2018-09-08 ; Times: 7
+	Date: 2018-09-28 ; Times: 3
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-11 ; Times: 2
+	Date: 2018-09-10 ; Times: 11
+	Date: 2018-09-13 ; Times: 10
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 10
+	Date: 2018-09-19 ; Times: 14
+	Date: 2018-09-18 ; Times: 8
+	Date: 2018-09-02 ; Times: 3
+	Date: 2018-09-03 ; Times: 10
+	Date: 2018-09-27 ; Times: 3
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "lamna nasus" ; Times: 6
+	Query: "Pterophanes" ; Times: 3
+	Query: "Pseudoeryx plicatilis hastissue:1" ; Times: 1
+	Query: "Mustela nivalis hastissue:1" ; Times: 5
+	Query: "genus:lepilemur" ; Times: 1
+	Query: "vntype:specimen specificepithet:anomalus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Indotyphlops braminus" ; Times: 1
+	Query: "family:Cheirogaleidae hastissue:1" ; Times: 1
+	Query: "genus:Vipera country:&#34;Iran&#34;" ; Times: 1
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Florida pituophis" ; Times: 1
+	Query: "amyda cartilaginea vntype:specimen hastissue:1" ; Times: 2
+	Query: "perisoreus institutioncode:MZLU" ; Times: 1
+	Query: "Vipera berus" ; Times: 2
+	Query: "Hemorrhois ravergieri" ; Times: 1
+	Query: "Calloselasma rhodostoma hastissue:1" ; Times: 1
+	Query: "Apalis argentea" ; Times: 6
+	Query: "genus:Heloderma hastissue:1" ; Times: 1
+	Query: "genus:Pelobates specificepithet:fuscus" ; Times: 1
+	Query: "genus:Grus grus specificepithet:grus" ; Times: 1
+	Query: "Macrovipera" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "specificepithet:capensis genus:Georychus" ; Times: 4
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 2
+	Query: "Oligodon taeniolatus" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "(Lygosoma OR Riopa OR Mochlus) institutioncode:MZLU" ; Times: 1
+	Query: "specificepithet:monedula genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 3
+	Query: "specificepithet:defilippi genus:sturnella" ; Times: 1
+	Query: "Typhlops tenuis" ; Times: 1
+	Query: "Rana dalmatina" ; Times: 1
+	Query: "amazona dufresniana" ; Times: 4
+	Query: "specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "genus:Microcebus hastissue:1" ; Times: 1
+	Query: "Polyodon spathula" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 45
+	Query: "ciconia ciconia hastissue:1" ; Times: 2
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 3
+	Query: "amyda vntype:specimen hastissue:1" ; Times: 1
+	Query: "Naja nigricollis" ; Times: 2
+	Query: "genus:phaner" ; Times: 2
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "Kaloula borealis" ; Times: 1
+	Query: "Helicops hastissue:1" ; Times: 1
+	Query: "lanius institutioncode:MZLU" ; Times: 1
+	Query: "Echinotriton andersoni" ; Times: 2
+	Query: "Dispholidus typus" ; Times: 3
+	Query: "specificepithet:bocagei genus:cossypha" ; Times: 1
+	Query: "specificepithet:corone genus:Corvus class:Aves hastissue:1" ; Times: 1
+	Query: "Vipera renardi" ; Times: 1
+	Query: "genus:Dispholidus specificepithet:typus" ; Times: 1
+	Query: "Helicops modestus hastissue:1" ; Times: 1
+	Query: "Oligodon hastissue:1" ; Times: 2
+	Query: "oligodon arnensis" ; Times: 1
+	Query: "institutioncode:MZLU" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 2
+	Query: "Brachyteles arachnoides" ; Times: 1
+	Query: "rhabdophis chrysargos" ; Times: 1
+	Query: "genus:Lasiancistrus hastissue:1" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "Accipiter gentilis gentilis hastissue:1" ; Times: 2
+	Query: "genus:Moschus" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "specificepithet:cotinga genus:cotinga" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "specificepithet:fiber genus:Castor" ; Times: 4
+	Query: "galemys" ; Times: 1
+	Query: "specificepithet:polystictus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:gallinago genus:Gallinago hastissue:1" ; Times: 2
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "class:aves country:&#34;brazil&#34; institutioncode:MZLU" ; Times: 2
+	Query: "Myrichthys pardalis" ; Times: 1
+	Query: "genus:caenolestes " ; Times: 1
+	Query: "specificepithet:microphthalmus genus:Spalax" ; Times: 2
+	Query: "genus:Hypnale" ; Times: 2
+	Query: "Aburria jacutinga" ; Times: 1
+	Query: "catalognumber:1980 hastissue:1" ; Times: 1
+	Query: "specificepithet:citellus genus:Spermophilus" ; Times: 2
+	Query: "(Lygosoma OR Riopa OR Mochlus) hastissue:1" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "Panthera tigris" ; Times: 2
+	Query: "genus:Mammuthus specificepithet:primigenius" ; Times: 1
+	Query: "genus:Naja specificepithet:nigricollis" ; Times: 1
+	Query: "(accipiter gentilis) hastissue:1" ; Times: 2
+	Query: "vntype:specimen genus:notiochelidon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Mabuya agilis" ; Times: 2
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "Lachesis muta" ; Times: 3
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 94 (out of 846 download events in this period)
+Total number of records downloaded: 913
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Mexico ; Times: 34
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: United States ; Times: 43
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 12
+	Date: 2018-09-27 ; Times: 7
+	Date: 2018-09-06 ; Times: 2
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-22 ; Times: 2
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-28 ; Times: 4
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-13 ; Times: 4
+	Date: 2018-09-12 ; Times: 1
+	Date: 2018-09-15 ; Times: 1
+	Date: 2018-09-14 ; Times: 1
+	Date: 2018-09-17 ; Times: 9
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 11
+	Date: 2018-09-18 ; Times: 19
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:putorius genus:Mustela mappable:1" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes mappable:1" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "specificepithet:dama genus:Dama mappable:1" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "campephilus magellanicus" ; Times: 2
+	Query: "Crotaphytus collaris" ; Times: 2
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Holbrookia maculata" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "genus:Conraua" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "Trachylepis spilogaster" ; Times: 1
+	Query: "Typhlops tenuis" ; Times: 1
+	Query: "oedura lesueurii" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "Sibon nebulatus" ; Times: 1
+	Query: "Leptophis mexicanus mexicanus" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "prionops" ; Times: 1
+	Query: "Dipsadidae" ; Times: 1
+	Query: "family:Cheirogaleidae hastissue:1" ; Times: 1
+	Query: "&#34;Salvelinus alpinus&#34;" ; Times: 1
+	Query: "specificepithet:mitchelli genus:Crotalus" ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "bothrops atrox" ; Times: 1
+	Query: "amphiuma tridactylum" ; Times: 4
+	Query: "Conophis lineatus" ; Times: 2
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "terrapene carolina carolina" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:penicillata genus:Cynictis mappable:1" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "Oxybelis aeneus" ; Times: 1
+	Query: "amyda cartilaginea vntype:specimen hastissue:1" ; Times: 1
+	Query: "&#34;cinclus cinclus&#34;" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "hemidactylus frenatus continent:Asia hastissue:1" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "Trachylepis varia" ; Times: 1
+	Query: "specificepithet:meles genus:Meles mappable:1" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "genus:Lasiancistrus hastissue:1" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "Crotalus triseriatus triseriatus" ; Times: 1
+	Query: "specificepithet:ruber genus:Crotalus" ; Times: 1
+	Query: "Norops sagrei" ; Times: 1
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "Drymarchon melanurus melanurus" ; Times: 1
+	Query: "Chamaeleonidae" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "Trachylepis striata" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "amphiuma means" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Kaloula borealis" ; Times: 1
+	Query: "specificepithet:vehiculum genus:plethodon" ; Times: 1
+	Query: "specificepithet:sirtalis genus:thamnophis" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "Aquila chrysaetos preparations:skeleton" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "Lachesis muta" ; Times: 1
+	Query: "Trachemys scripta elegans" ; Times: 2
+	Query: "Melopsittacus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "cryptobranchus alleganiensis" ; Times: 1
+	Query: "glyptemys insculpta" ; Times: 1
+	Query: "Engystomops pustulosus" ; Times: 1
+	Query: "Trachylepis maculilabris" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
