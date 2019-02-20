@@ -1,0 +1,342 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 313
+Number of records retrieved in searches: 874
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Czechia ; Times: 5
+	Country: Turkey ; Times: 2
+	Country: South Africa ; Times: 3
+	Country: India ; Times: 1
+	Country: Saint Kitts and Nevis ; Times: 3
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: China ; Times: 1
+	Country: Peru ; Times: 80
+	Country: Greece ; Times: 1
+	Country: Belgium ; Times: 7
+	Country: New Zealand ; Times: 23
+	Country: United States ; Times: 157
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 11
+	Date: 2019-01-23 ; Times: 5
+	Date: 2019-01-26 ; Times: 4
+	Date: 2019-01-18 ; Times: 4
+	Date: 2019-01-19 ; Times: 3
+	Date: 2019-01-14 ; Times: 47
+	Date: 2019-01-15 ; Times: 18
+	Date: 2019-01-30 ; Times: 16
+	Date: 2019-01-17 ; Times: 12
+	Date: 2019-01-10 ; Times: 13
+	Date: 2019-01-11 ; Times: 24
+	Date: 2019-01-12 ; Times: 7
+	Date: 2019-01-13 ; Times: 12
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-02 ; Times: 3
+	Date: 2019-01-29 ; Times: 9
+	Date: 2019-01-28 ; Times: 9
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 3
+	Date: 2019-01-06 ; Times: 1
+	Date: 2019-01-05 ; Times: 12
+	Date: 2019-01-04 ; Times: 7
+	Date: 2019-01-21 ; Times: 6
+	Date: 2019-01-20 ; Times: 10
+	Date: 2019-01-09 ; Times: 22
+	Date: 2019-01-22 ; Times: 15
+	Date: 2019-01-25 ; Times: 4
+	Date: 2019-01-24 ; Times: 8
+	Date: 2019-01-27 ; Times: 6
+	Date: 2019-01-08 ; Times: 8
+	Date: 2019-01-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "galemys pyrenaicus" ; Times: 2
+	Query: "Ramphastos culminatus" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "Heliornis fulica" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Didunculus" ; Times: 2
+	Query: "Phoenicopterus chilensis" ; Times: 1
+	Query: "genus:collocalia family:apodidae hastissue:1" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "genus:Ecnomiohyla country:&#34;Mexico&#34;" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 4
+	Query: "specificepithet:sibiricus genus:tamias institutioncode:MZLU" ; Times: 1
+	Query: "Eupetomena macroura" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Glyptemys muhlenbergii" ; Times: 2
+	Query: "Celeus elegans" ; Times: 1
+	Query: "Strigops habroptilus" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "Xenops genibarbis" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufigularis genus:falco" ; Times: 2
+	Query: "Ara macao" ; Times: 1
+	Query: "specificepithet:rufiventris genus:Ardeola" ; Times: 1
+	Query: "Gonocephalus kuhlii" ; Times: 1
+	Query: "Crypturellus variegatus" ; Times: 1
+	Query: "Glyptemys insculpta" ; Times: 1
+	Query: "Panthera onca" ; Times: 53
+	Query: "Pilherodius pileatus" ; Times: 1
+	Query: "vntype:specimen genus:Platycichla class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chloroceryle inda" ; Times: 1
+	Query: "genus:Otis" ; Times: 1
+	Query: "specificepithet:lineatus genus:Lygophis" ; Times: 1
+	Query: "genus:Breviceps specificepithet:fuscus" ; Times: 1
+	Query: "Thamnophilus palliatus" ; Times: 1
+	Query: "Megaceryle torquata" ; Times: 1
+	Query: "Eurypyga helias" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "Amazonetta brasiliensis" ; Times: 1
+	Query: "Gyps fulvus" ; Times: 1
+	Query: "&#34;Erinaceidae Erinaceus&#34;" ; Times: 1
+	Query: "mullus barbatus" ; Times: 2
+	Query: "hastissue:1 acontias" ; Times: 6
+	Query: "Ablepharus bivittatus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 5
+	Query: "Deroptyus accipitrinus" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "papio hamadryas" ; Times: 7
+	Query: "Laterallus exilis" ; Times: 1
+	Query: "year &gt;= 1860 year &lt;= 1935 chloephaga picta" ; Times: 3
+	Query: "Moschus" ; Times: 1
+	Query: "Chlorostilbon notatus" ; Times: 1
+	Query: "specificepithet:flagellum genus:coluber stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 23
+	Query: "Osteolaemus" ; Times: 2
+	Query: "specificepithet:lagopus class:Mammalia isfossil:1" ; Times: 4
+	Query: "Patagona gigas" ; Times: 2
+	Query: "Pernis apivorus" ; Times: 2
+	Query: "specificepithet:talpoideum genus:Ambystoma stateprovince:&#34;South Carolina&#34;" ; Times: 2
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 1
+	Query: "Hydropsalis climacocerca" ; Times: 1
+	Query: "specificepithet:bivirgata genus:Calliophis" ; Times: 2
+	Query: "Bitis nasicornis" ; Times: 1
+	Query: "Discosura popelairii" ; Times: 1
+	Query: "Amazona farinosa" ; Times: 1
+	Query: "Ceratophrys hastissue:1" ; Times: 3
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "genus:Panthera hastissue:1" ; Times: 1
+	Query: "Melanerpes candidus" ; Times: 1
+	Query: "Asio clamator" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "specificepithet:leo genus:Panthera hastissue:1" ; Times: 1
+	Query: "Ramphomicron microrhynchum" ; Times: 1
+	Query: "Psophia crepitans" ; Times: 1
+	Query: "specificepithet:lagopus isfossil:1" ; Times: 2
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "Dendrocygna viduata" ; Times: 1
+	Query: "Discosura langsdorffi" ; Times: 1
+	Query: "ceratophrys ornata" ; Times: 2
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Pterophanes cyanopterus" ; Times: 1
+	Query: "specificepithet:godefrida genus:Claravis" ; Times: 1
+	Query: "genus:thecadactylus continent:North America hastissue:1" ; Times: 1
+	Query: "Chamaeza campanisona" ; Times: 1
+	Query: "Bungarus candidus" ; Times: 2
+	Query: "Piculus flavigula" ; Times: 1
+	Query: "genus:thecadactylus continent:North America" ; Times: 1
+	Query: "Heliodoxa leadbeateri" ; Times: 1
+	Query: "Columbina minuta" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:anas country:&#34;south africa&#34;" ; Times: 1
+	Query: "Calliophis bivirgata" ; Times: 2
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Proteus specificepithet:anguinus" ; Times: 1
+	Query: "vntype:specimen specificepithet:fumigatus genus:Turdus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "emys" ; Times: 1
+	Query: "Phaethornis malaris" ; Times: 1
+	Query: "genus:Platycichla class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phalacrocorax gaimardi" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH)" ; Times: 2
+	Query: "cervus axis" ; Times: 7
+	Query: "Veniliornis affinis" ; Times: 1
+	Query: "Thaumastura cora" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "genus:Prosthemadera month &lt;= 1910 enddayofyear &lt;= 1880" ; Times: 1
+	Query: "Ramphastos ambiguus" ; Times: 1
+	Query: "specificepithet:pygargus genus:Capreolus" ; Times: 1
+	Query: "Pardirallus sanguinolentus" ; Times: 1
+	Query: "genus:thecadactylus hastissue:1" ; Times: 1
+	Query: "specificepithet:tarda tarda genus:Otis" ; Times: 2
+	Query: "owenii" ; Times: 1
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Harpagus bidentatus" ; Times: 1
+	Query: "Lochmias nematura" ; Times: 1
+	Query: "Netta erythrophthalma" ; Times: 1
+	Query: "platyceps najadum" ; Times: 2
+	Query: "lycodonomorphus" ; Times: 1
+	Query: "family:Pygopodidae hastissue:1" ; Times: 1
+	Query: "specificepithet:durissus genus:Crotalus hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops hastissue:1" ; Times: 1
+	Query: "Veniliornis passerinus" ; Times: 1
+	Query: "Campephilus rubricollis" ; Times: 1
+	Query: "lithobates capito" ; Times: 1
+	Query: "vntype:specimen family:Paridae class:Aves country:&#34;Russia&#34; year &lt;= 1920" ; Times: 2
+	Query: "dermoptera" ; Times: 4
+	Query: "Colaptes punctigula" ; Times: 1
+	Query: "genus:Alces isfossil:1" ; Times: 2
+	Query: "Porphyrio flavirostris" ; Times: 1
+	Query: "Celeus flavus" ; Times: 1
+	Query: "Corytophanes cristatus" ; Times: 1
+	Query: "( Aniella OR Abronia OR Anguis OR Celestus OR Diploglossus OR Gerrhonotus OR Ophisaurus OR Ophiodes OR Elgaria OR Dopasia OR Coloptychon OR Barisia OR Mesaspis) institutioncode:MZLU" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "specificepithet:melanotus genus:Pseudocordylus" ; Times: 1
+	Query: "Testudo graeca" ; Times: 2
+	Query: "specificepithet:gentilis year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Calloselasma" ; Times: 1
+	Query: "ecnomiohyla" ; Times: 1
+	Query: "Campylorhamphus trochilirostris" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 1
+	Query: "Amazona amazonica" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Basiliscus galeritus" ; Times: 1
+	Query: "Forpus xanthopterygius" ; Times: 1
+	Query: "Oceanites gracilis" ; Times: 1
+	Query: "specificepithet:sibiricus genus:tamias" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "specificepithet:melanocephala genus:Tantilla AND (NOT AMNH) institutioncode:MZLU" ; Times: 1
+	Query: "Ramphastos toco" ; Times: 1
+	Query: "Galbula dea" ; Times: 1
+	Query: "Polytmus guainumbi" ; Times: 1
+	Query: "Calliphlox amethystina" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Eublepharis macularius" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "apteryx owenii" ; Times: 1
+	Query: "Podiceps major" ; Times: 1
+	Query: "Chaetocercus mulsant" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 17
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 145 (out of 962 download events in this period)
+Total number of records downloaded: 1744
+Number of different countries: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 110
+	Country: Israel ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Indonesia ; Times: 1
+	Country: India ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: China ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: France ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 25
+	Date: 2019-01-26 ; Times: 2
+	Date: 2019-01-19 ; Times: 1
+	Date: 2019-01-14 ; Times: 5
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-17 ; Times: 2
+	Date: 2019-01-10 ; Times: 3
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-03 ; Times: 4
+	Date: 2019-01-29 ; Times: 23
+	Date: 2019-01-28 ; Times: 15
+	Date: 2019-01-01 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-05 ; Times: 3
+	Date: 2019-01-04 ; Times: 1
+	Date: 2019-01-21 ; Times: 1
+	Date: 2019-01-20 ; Times: 1
+	Date: 2019-01-09 ; Times: 1
+	Date: 2019-01-22 ; Times: 7
+	Date: 2019-01-25 ; Times: 10
+	Date: 2019-01-24 ; Times: 2
+	Date: 2019-01-27 ; Times: 10
+	Date: 2019-01-08 ; Times: 5
+	Date: 2019-01-30 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:longicauda genus:Eurycea" ; Times: 1
+	Query: "Gymnophiona" ; Times: 1
+	Query: "marmosa" ; Times: 1
+	Query: "specificepithet:catenatus genus:Sistrurus" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Philander opossum" ; Times: 1
+	Query: "tayassu pecari" ; Times: 1
+	Query: "oryctolagus cuniculus" ; Times: 1
+	Query: "vntype:specimen genus:macaca" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Terpsiphone hastissue:1" ; Times: 1
+	Query: "onychodactylus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Candoia bibroni" ; Times: 1
+	Query: "papio hamadryas" ; Times: 2
+	Query: "genus:Alces isfossil:1" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "zootoca vivipara" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 3
+	Query: "sporophila lineola" ; Times: 1
+	Query: "hydrurga leptonyx" ; Times: 2
+	Query: "Elephas maximus" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 1
+	Query: "Osteolaemus" ; Times: 1
+	Query: "order:Primates country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Trachylepis striata" ; Times: 1
+	Query: "specificepithet:truncatus genus:Chlamyphorus" ; Times: 3
+	Query: "specificepithet:caerulea caerulea genus:Passerina year &gt;= 1970 year &lt;= 2018" ; Times: 1
+	Query: "Pernis apivorus" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "&#34;Dermoptera&#34;" ; Times: 1
+	Query: "(dermoptera)" ; Times: 14
+	Query: "elephas maximus" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "specificepithet:erythromelas genus:Periporphyrus" ; Times: 1
+	Query: "Dermoptera" ; Times: 22
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Tropidoclonion" ; Times: 1
+	Query: "Ablepharus" ; Times: 1
+	Query: "Tropiocolotes" ; Times: 1
+	Query: "genus:Sciurus hastissue:1" ; Times: 2
+	Query: "cynocephalidae" ; Times: 1
+	Query: "(Dermoptera)" ; Times: 9
+	Query: "Ambystoma mexicanum" ; Times: 3
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Phelsuma laticauda" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 2
+	Query: "Ornithorhynchus anatinus" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris" ; Times: 1
+	Query: "dermoptera" ; Times: 35
+
+
+End of report.
