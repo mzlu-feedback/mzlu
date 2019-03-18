@@ -1,0 +1,309 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 229
+Number of records retrieved in searches: 632
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: Turkey ; Times: 7
+	Country: Italy ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 19
+	Country: Peru ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Belgium ; Times: 13
+	Country: Netherlands ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: United States ; Times: 119
+	Country: Japan ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: Portugal ; Times: 3
+	Country: South Africa ; Times: 9
+	Country: Mexico ; Times: 5
+	Country: United Kingdom ; Times: 14
+	Country: Hungary ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-11 ; Times: 7
+	Date: 2019-02-10 ; Times: 3
+	Date: 2019-02-13 ; Times: 19
+	Date: 2019-02-12 ; Times: 8
+	Date: 2019-02-15 ; Times: 7
+	Date: 2019-02-14 ; Times: 5
+	Date: 2019-02-17 ; Times: 6
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-24 ; Times: 5
+	Date: 2019-02-25 ; Times: 4
+	Date: 2019-02-26 ; Times: 7
+	Date: 2019-02-27 ; Times: 8
+	Date: 2019-02-20 ; Times: 1
+	Date: 2019-02-07 ; Times: 8
+	Date: 2019-02-04 ; Times: 27
+	Date: 2019-02-05 ; Times: 15
+	Date: 2019-02-08 ; Times: 42
+	Date: 2019-02-09 ; Times: 7
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-02 ; Times: 9
+	Date: 2019-02-01 ; Times: 19
+	Date: 2019-02-06 ; Times: 5
+	Date: 2019-02-21 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "Ramphastos culminatus" ; Times: 2
+	Query: "specificepithet:resimus genus:causus country:&#34;congo&#34;" ; Times: 1
+	Query: "pityriasis" ; Times: 2
+	Query: "Eudyptes chrysocome" ; Times: 2
+	Query: "specificepithet:sapiens genus:Homo" ; Times: 1
+	Query: "Amazona rhodocorytha" ; Times: 1
+	Query: "genus:Oxybelis hastissue:1" ; Times: 1
+	Query: "Procnias nudicollis" ; Times: 2
+	Query: "Gubernatrix cristata" ; Times: 2
+	Query: "Jacamaralcyon tridactyla" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "specificepithet:alleni genus:Porphyrio" ; Times: 1
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "Calyptura cristata" ; Times: 1
+	Query: "specificepithet:trianguligerus genus:Xenochrophis hastissue:1" ; Times: 1
+	Query: "Amazona guildingii" ; Times: 3
+	Query: "Agamia agami" ; Times: 2
+	Query: "glyptemys muhlenbergii" ; Times: 2
+	Query: "genus:ceratophrys hastissue:1" ; Times: 1
+	Query: "Eublepharis macularius" ; Times: 1
+	Query: "genus:Mastigodryas country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:pictus genus:Chrysolophus class:Aves" ; Times: 1
+	Query: "lullula arborea" ; Times: 4
+	Query: "Procellaria aequinoctialis" ; Times: 2
+	Query: "Stenodactylus petrii" ; Times: 2
+	Query: "Ara ararauna" ; Times: 1
+	Query: "Calliophis melanurus" ; Times: 1
+	Query: "Amazona barbadensis" ; Times: 1
+	Query: "eublepharis macularius" ; Times: 1
+	Query: "macrovipera" ; Times: 1
+	Query: "Amazona vinacea" ; Times: 2
+	Query: "Ceratophrys hastissue:1" ; Times: 11
+	Query: "Myrmotherula urosticta" ; Times: 1
+	Query: "Cyanopsitta spixii" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 1
+	Query: "Crax fasciolata" ; Times: 6
+	Query: "genus:Chlamydotis" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "Pseudocordylus melanotus" ; Times: 4
+	Query: "podiceps major" ; Times: 3
+	Query: "Xanthopsar flavus" ; Times: 2
+	Query: "Moschus" ; Times: 1
+	Query: "specificepithet:caudalis genus:bitis" ; Times: 1
+	Query: "emys orbicularis" ; Times: 2
+	Query: "specificepithet:uncia genus:Panthera" ; Times: 3
+	Query: "genus:apus family:apodidae hastissue:1" ; Times: 5
+	Query: "Eumeces schneiderii" ; Times: 6
+	Query: "vntype:specimen specificepithet:maculata genus:cotinga" ; Times: 1
+	Query: "Pseudocordylus" ; Times: 2
+	Query: "A CONTORTIX" ; Times: 1
+	Query: "Timon lepidus" ; Times: 1
+	Query: "specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "family:daubentoniidae" ; Times: 1
+	Query: "sturnus unicolor" ; Times: 1
+	Query: "genus:Anguis hastissue:1" ; Times: 1
+	Query: "Cotinga maculata" ; Times: 1
+	Query: "trogonophis" ; Times: 1
+	Query: "Eudyptes chrysolophus" ; Times: 2
+	Query: "Hypnale hypnale" ; Times: 1
+	Query: "Boophis microtympanum" ; Times: 2
+	Query: "Dendrobates tinctorius" ; Times: 1
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "genus:Parus country:(Russia)" ; Times: 1
+	Query: "genus:Epidalea specificepithet:calamita" ; Times: 1
+	Query: "Pyrrhura leucotis" ; Times: 1
+	Query: "Auricularia" ; Times: 1
+	Query: "tragopan" ; Times: 1
+	Query: "vntype:specimen genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:1688" ; Times: 2
+	Query: "order:Squamata stateprovince:&#34;Santa Catarina&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pseudocordylus melanotus melanotus" ; Times: 3
+	Query: "vipera ursinii" ; Times: 2
+	Query: "Vipera palaestinae" ; Times: 7
+	Query: "genus:Sus country:&#34;Sweden&#34;" ; Times: 1
+	Query: "Naultinus elegans" ; Times: 1
+	Query: "genus:Pseudopus hastissue:1" ; Times: 1
+	Query: "Herpsilochmus pileatus" ; Times: 1
+	Query: "Spheniscus humboldti" ; Times: 2
+	Query: "Eryx johnii" ; Times: 4
+	Query: "Anodorhynchus glaucus" ; Times: 2
+	Query: "Drymarchon corais OR (melanurus) NOT (couperi) NOT (USA) NOT (United States)" ; Times: 1
+	Query: "Alopochen" ; Times: 1
+	Query: "gavialis" ; Times: 2
+	Query: "Galemys pyrenaicus" ; Times: 1
+	Query: "Synallaxis hypospodia" ; Times: 1
+	Query: "Ara ambiguus" ; Times: 2
+	Query: "specificepithet:scincus genus:Scincus" ; Times: 1
+	Query: "sunda genus:collocalia hastissue:1" ; Times: 1
+	Query: "genus:Dendrobates specificepithet:tinctorius" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 4
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "specificepithet:mola genus:Mola" ; Times: 1
+	Query: "vntype:specimen genus:Pityriasis class:Aves" ; Times: 2
+	Query: "Leptasthenura aegithaloides" ; Times: 1
+	Query: "Oenanthe hastissue:1" ; Times: 1
+	Query: "specificepithet:atrox genus:Bothrops hastissue:1" ; Times: 1
+	Query: "bitis caudalis" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Vulpes chama" ; Times: 1
+	Query: "Diomedea epomophora" ; Times: 2
+	Query: "Alectrurus tricolor" ; Times: 2
+	Query: "vntype:specimen specificepithet:SATURNINUS genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "fallax pallidus" ; Times: 1
+	Query: "specificepithet:genei genus:Larus" ; Times: 1
+	Query: "specificepithet:pachygaster genus:sphoeroides hastissue:1" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 1
+	Query: "family:uropeltidae hastissue:1" ; Times: 3
+	Query: "ursinii" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "specificepithet:gecko genus:gekko hastissue:1" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 9
+	Query: "ceratophrys ar" ; Times: 1
+	Query: "Phallotorynus" ; Times: 2
+	Query: "Calliophis bivirgata" ; Times: 1
+	Query: "vipera berus" ; Times: 2
+	Query: "vntype:specimen specificepithet:gilvus genus:Mimus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 2
+	Query: "genus:Lissotriton specificepithet:italicus" ; Times: 1
+	Query: "genus:Spilotes hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos (skeleton)" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "vntype:specimen specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 13
+	Query: "genus:otis" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 98 (out of 1227 download events in this period)
+Total number of records downloaded: 4904
+Number of different countries: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 18
+	Country: United States ; Times: 27
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 28
+	Country: Unknown ; Times: 1
+	Country: South Africa ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 3
+	Country: Hungary ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Brazil ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-22 ; Times: 1
+	Date: 2019-02-23 ; Times: 2
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-10 ; Times: 1
+	Date: 2019-02-13 ; Times: 15
+	Date: 2019-02-12 ; Times: 9
+	Date: 2019-02-15 ; Times: 1
+	Date: 2019-02-14 ; Times: 8
+	Date: 2019-02-17 ; Times: 7
+	Date: 2019-02-16 ; Times: 2
+	Date: 2019-02-19 ; Times: 3
+	Date: 2019-02-18 ; Times: 4
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-25 ; Times: 2
+	Date: 2019-02-26 ; Times: 2
+	Date: 2019-02-01 ; Times: 3
+	Date: 2019-02-20 ; Times: 2
+	Date: 2019-02-07 ; Times: 3
+	Date: 2019-02-04 ; Times: 6
+	Date: 2019-02-05 ; Times: 3
+	Date: 2019-02-08 ; Times: 8
+	Date: 2019-02-28 ; Times: 1
+	Date: 2019-02-03 ; Times: 1
+	Date: 2019-02-21 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:porphyrio genus:Porphyrio" ; Times: 2
+	Query: "ursinii" ; Times: 1
+	Query: "Panthera onca" ; Times: 6
+	Query: "phelsuma" ; Times: 1
+	Query: "Alligator mississippiensis vntype:specimen" ; Times: 1
+	Query: "Melanerpes carolinus vntype:specimen" ; Times: 1
+	Query: "specificepithet:aurea genus:aratinga" ; Times: 1
+	Query: "phaethon aethereus" ; Times: 1
+	Query: "Ambystoma mexicanum" ; Times: 7
+	Query: "Panthera pardus" ; Times: 1
+	Query: "deirochelys" ; Times: 2
+	Query: "specificepithet:bison genus:Bison isfossil:1" ; Times: 1
+	Query: "Elanus caeruleus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "genus:Tetrax tetrax" ; Times: 1
+	Query: "specificepithet:montanus genus:Parus country:&#34;Russia&#34;" ; Times: 1
+	Query: "tantilla melanocephala" ; Times: 1
+	Query: "vntype:specimen genus:Odocoileus basisofrecord:FossilSpecimen isfossil:1" ; Times: 1
+	Query: "specificepithet:lineata genus:conopophaga" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "specificepithet:afer genus:Francolinus" ; Times: 1
+	Query: "Echis carinatus" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "Bungarus caeruleus" ; Times: 1
+	Query: "siphonops" ; Times: 1
+	Query: "Ceratophrys" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "genus:Chironius" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Porphyrio" ; Times: 2
+	Query: "Pongo pygmaeus" ; Times: 3
+	Query: "vntype:specimen specificepithet:major genus:dendrocopos" ; Times: 1
+	Query: "herpestes auropunctatus" ; Times: 2
+	Query: "specificepithet:erythrophthalma genus:lophura" ; Times: 1
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "Tarentola mauritanica" ; Times: 1
+	Query: "Vulpes chama" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "xolmis pyrope" ; Times: 1
+	Query: "specificepithet:macularius genus:Eublepharis" ; Times: 1
+	Query: "Amazona guildingii" ; Times: 1
+	Query: "sceloporus spinosus" ; Times: 1
+	Query: "specificepithet:sulphurea genus:cacatua" ; Times: 1
+	Query: "specificepithet:galerita genus:cacatua" ; Times: 2
+	Query: "dermoptera" ; Times: 3
+	Query: "Phallotorynus" ; Times: 1
+	Query: "Phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:flavicollis genus:Apodemus" ; Times: 1
+	Query: "specificepithet:canus genus:picus" ; Times: 1
+	Query: "caecilia" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "Dermoptera" ; Times: 3
+	Query: "Dasypus" ; Times: 1
+	Query: "specificepithet:flavus genus:celeus" ; Times: 1
+	Query: "hastissue:1 AND Sumatra AND Reptilia" ; Times: 1
+	Query: "specificepithet:alleni genus:porphyrio" ; Times: 1
+	Query: "genus:Pteropus hastissue:1" ; Times: 1
+	Query: "genus:Pseudopus hastissue:1" ; Times: 1
+	Query: "Pseudocordylus melanotus melanotus" ; Times: 2
+	Query: "specificepithet:madagascariensis genus:porphyrio" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "genus:Ophisaurus hastissue:1" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "genus:Chlamydotis" ; Times: 1
+	Query: "Hypnale hypnale" ; Times: 1
+	Query: "specificepithet:viridis genus:picus" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "family:daubentoniidae" ; Times: 1
+	Query: "genus:Anguis hastissue:1" ; Times: 2
+	Query: "genus:Trichechus class:Mammalia" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:Apodemus" ; Times: 1
+	Query: "genus:otis" ; Times: 1
+
+
+End of report.
