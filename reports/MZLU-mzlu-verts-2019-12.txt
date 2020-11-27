@@ -1,0 +1,215 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 140
+Number of records retrieved in searches: 577
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Canada ; Times: 1
+	Country: Slovakia ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Portugal ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 4
+	Country: Finland ; Times: 2
+	Country: India ; Times: 3
+	Country: France ; Times: 4
+	Country: Mexico ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 4
+	Country: United Kingdom ; Times: 2
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 2
+	Country: Japan ; Times: 3
+	Country: United States ; Times: 79
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 1
+	Date: 2019-12-24 ; Times: 14
+	Date: 2019-12-27 ; Times: 5
+	Date: 2019-12-26 ; Times: 4
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-20 ; Times: 2
+	Date: 2019-12-23 ; Times: 3
+	Date: 2019-12-22 ; Times: 2
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-18 ; Times: 5
+	Date: 2019-12-19 ; Times: 6
+	Date: 2019-12-10 ; Times: 8
+	Date: 2019-12-11 ; Times: 9
+	Date: 2019-12-12 ; Times: 8
+	Date: 2019-12-13 ; Times: 11
+	Date: 2019-12-14 ; Times: 1
+	Date: 2019-12-16 ; Times: 5
+	Date: 2019-12-17 ; Times: 9
+	Date: 2019-12-30 ; Times: 3
+	Date: 2019-12-31 ; Times: 3
+	Date: 2019-12-09 ; Times: 11
+	Date: 2019-12-05 ; Times: 11
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 9
+	Date: 2019-12-01 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Ratufa indica" ; Times: 1
+	Query: "genus:Capensibufo hastissue:1" ; Times: 1
+	Query: "specificepithet:lutra genus:Lutra mappable:1" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "breviceps fuscus" ; Times: 2
+	Query: "ara ararauna" ; Times: 1
+	Query: "genus:Anhydrophryne hastissue:1" ; Times: 1
+	Query: "specificepithet:aspera genus:Phrynoidis" ; Times: 2
+	Query: "genus:Semnodactylus hastissue:1" ; Times: 2
+	Query: "genus:Leiopelma hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Sicalis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:bidens genus:mesoplodon" ; Times: 1
+	Query: "avocettula" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 2
+	Query: "Pyrrhura cruentata" ; Times: 2
+	Query: "genus:Leiopelma" ; Times: 1
+	Query: "specificepithet:cristata genus:Proteles" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 3
+	Query: "genus:Microbatrachella hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "specificepithet:calamita genus:Epidalea" ; Times: 2
+	Query: "chamaeleo namaquensis" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 4
+	Query: "vntype:specimen genus:SIcalis class:Aves country:&#34;Brazil&#34; institutioncode:MZLU" ; Times: 1
+	Query: "Mastigodryas boddaertii" ; Times: 1
+	Query: "SP 3030" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+	Query: "vntype:specimen specificepithet:corythaix genus:Tauraco country:&#34;South Africa&#34;" ; Times: 1
+	Query: "specificepithet:cristatus genus:Pavo hastissue:1" ; Times: 1
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 1
+	Query: "family:brevicipitidae hastissue:1" ; Times: 3
+	Query: "family:Helodermatidae isfossil:1" ; Times: 2
+	Query: "Strigops habroptilus" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "crax fasciolata" ; Times: 2
+	Query: "Lissotriton vulgaris" ; Times: 2
+	Query: "vipera renardi" ; Times: 1
+	Query: "Apteryx mantelli" ; Times: 1
+	Query: "regulus brazil" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "Calumma parsonii" ; Times: 1
+	Query: "platurus hastissue:1" ; Times: 8
+	Query: "specificepithet:biporcatus genus:Ingerophrynus" ; Times: 2
+	Query: "nyctinomops aurispinosus" ; Times: 1
+	Query: "genus:Salamandra specificepithet:corsica" ; Times: 2
+	Query: "specificepithet:leuconota genus:Pyriglena country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "Tilapia sparrmanii" ; Times: 1
+	Query: "specificepithet:gariepensis genus:Vandijkophrynus" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 3
+	Query: "CIRCUS PYGARGUS" ; Times: 2
+	Query: "vntype:specimen specificepithet:porphyreolophus genus:Tauraco" ; Times: 2
+	Query: "specificepithet:rosei genus:Capensibufo" ; Times: 2
+	Query: "Naultinus" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "Protopterus annectens" ; Times: 2
+	Query: "specificepithet:axis" ; Times: 1
+	Query: "calumma parsonii" ; Times: 4
+	Query: "class:reptilia country:&#34;India&#34; hastissue:1" ; Times: 2
+	Query: "homo sapiens" ; Times: 4
+	Query: "pavo cristatus" ; Times: 1
+	Query: "specificepithet:hoeschi genus:Poyntonophrynus" ; Times: 2
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "pelobates fuscus" ; Times: 1
+	Query: "specificepithet:paradisaea genus:Sterna continent:Europe" ; Times: 1
+	Query: "cyanopsitta spixii" ; Times: 2
+	Query: "Ara ambiguus" ; Times: 1
+	Query: "Microbatrachella capensis" ; Times: 1
+	Query: "claravis godefrida" ; Times: 3
+	Query: "genus:Epidalea hastissue:1" ; Times: 2
+	Query: "Lachesis muta" ; Times: 2
+	Query: "genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Crotalus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "cepphus 1932" ; Times: 1
+	Query: "genus:Ecnomiohyla hastissue:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 5
+	Query: "(Sarcoramphus papa) year &lt;= 1900" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 39 (out of 596 download events in this period)
+Total number of records downloaded: 259
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: United States ; Times: 17
+	Country: Paraguay ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Belgium ; Times: 10
+	Country: South Korea ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 10
+	Date: 2019-12-04 ; Times: 2
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-29 ; Times: 1
+	Date: 2019-12-02 ; Times: 3
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-09 ; Times: 1
+	Date: 2019-12-08 ; Times: 3
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-05 ; Times: 4
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Circus aeruginosus" ; Times: 1
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "genus:Furcifer" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:garzetta genus:Egretta" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "specificepithet:major genus:Parus class:Aves hastissue:1" ; Times: 1
+	Query: "Ophisaurus ventralis" ; Times: 1
+	Query: "Melogale" ; Times: 1
+	Query: "Pseudopus apodus" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "sporophila lineola" ; Times: 1
+	Query: "family:Myobatrachidae hastissue:1" ; Times: 1
+	Query: "lithobates catesbeianus" ; Times: 1
+	Query: "specificepithet:areolatus genus:Lithobates class:Amphibia" ; Times: 1
+	Query: "Mellivora capensis" ; Times: 1
+	Query: "crax fasciolata" ; Times: 1
+	Query: "genus:Thamnophis stateprovince:&#34;British Columbia&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Varanus gouldii" ; Times: 1
+	Query: "genus:Odobenus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "Varanus indicus" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "CIRCUS PYGARGUS" ; Times: 1
+	Query: "Varanus niloticus" ; Times: 1
+	Query: "Naultinus" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "anguis fragilis" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+	Query: "Varanus salvator" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "genus:Crotalus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+
+
+End of report.
