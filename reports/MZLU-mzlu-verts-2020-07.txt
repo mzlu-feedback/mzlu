@@ -1,0 +1,265 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 143
+Number of records retrieved in searches: 727
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 7
+	Country: Netherlands ; Times: 5
+	Country: Peru ; Times: 5
+	Country: Uruguay ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Finland ; Times: 2
+	Country: India ; Times: 1
+	Country: France ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: Sweden ; Times: 8
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 11
+	Country: United Kingdom ; Times: 1
+	Country: Ireland ; Times: 1
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 21
+	Country: United States ; Times: 58
+	Country: New Zealand ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 2
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 2
+	Date: 2020-07-27 ; Times: 10
+	Date: 2020-07-26 ; Times: 2
+	Date: 2020-07-25 ; Times: 17
+	Date: 2020-07-24 ; Times: 4
+	Date: 2020-07-01 ; Times: 5
+	Date: 2020-07-03 ; Times: 9
+	Date: 2020-07-02 ; Times: 10
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 3
+	Date: 2020-07-06 ; Times: 1
+	Date: 2020-07-23 ; Times: 9
+	Date: 2020-07-29 ; Times: 13
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-30 ; Times: 20
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 5
+	Date: 2020-07-17 ; Times: 2
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "Psittacus erithacus" ; Times: 1
+	Query: "crotalus lepidus lepidus" ; Times: 1
+	Query: "genus:Gavialis" ; Times: 4
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "genus:Siphonops specificepithet:annulatus" ; Times: 2
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 1
+	Query: "Pseudotriton ruber" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 2
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "specificepithet:granulatus genus:Acrochordus hastissue:1" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;tanzania&#34;" ; Times: 5
+	Query: "Bos grunniens" ; Times: 1
+	Query: "genus:Tenrec hastissue:1" ; Times: 1
+	Query: "genus:Pelophylax specificepithet:porosus" ; Times: 1
+	Query: "Andrias japonicus" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "class:mammalia continent:africa year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "specificepithet:niloticus genus:varanus hastissue:1" ; Times: 1
+	Query: "specificepithet:molurus genus:Python preparations:tissue" ; Times: 1
+	Query: "Eurycea spelaea" ; Times: 1
+	Query: "vntype:specimen specificepithet:angolensis genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "family:Alcidae country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 4
+	Query: "anodorhynchus glaucus" ; Times: 2
+	Query: "specificepithet:pachygaster genus:sphoeroides hastissue:1" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 2
+	Query: "corallus" ; Times: 1
+	Query: "genus:machetornis" ; Times: 1
+	Query: "rhinoderma darwinii" ; Times: 17
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Eurycea cirrigera" ; Times: 1
+	Query: "corallus caninus" ; Times: 5
+	Query: "vntype:specimen genus:Oryzoborus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hydromantes italicus" ; Times: 2
+	Query: "Aneides flavipunctatus" ; Times: 1
+	Query: "Dama dama" ; Times: 2
+	Query: "Batrachoseps major" ; Times: 1
+	Query: "Clupea harengus" ; Times: 3
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "Accipiter gentilis hastissue:1" ; Times: 2
+	Query: "Eurycea longicauda" ; Times: 1
+	Query: "Eurycea guttolineata" ; Times: 1
+	Query: "genus:Fratercula country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "anilius" ; Times: 1
+	Query: "notoryctes" ; Times: 1
+	Query: "Cursorius temminckii" ; Times: 1
+	Query: "austrolebias" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "Aneides lugubris" ; Times: 1
+	Query: "Lithobathes" ; Times: 1
+	Query: "Haematopus moquini" ; Times: 2
+	Query: "Buergeria buergeri" ; Times: 1
+	Query: "NRM" ; Times: 1
+	Query: "Eurycea quadridigitata" ; Times: 1
+	Query: "Hydromantes platycephalus" ; Times: 2
+	Query: "vntype:specimen specificepithet:grossus genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "sterna balaenarum" ; Times: 2
+	Query: "balaenarum" ; Times: 2
+	Query: "Hemidactylium scutatum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;virginia&#34; isfossil:1" ; Times: 2
+	Query: "crotalus mitchelli" ; Times: 1
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 9
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Epictia tenella" ; Times: 1
+	Query: "larus Ichthyaetus" ; Times: 2
+	Query: "Alopias" ; Times: 1
+	Query: "lachesis muta" ; Times: 1
+	Query: "Erythrocebus" ; Times: 5
+	Query: "Stereochilus marginatus" ; Times: 2
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "vntype:specimen specificepithet:coerulescens genus:Saltator class:Aves country:&#34;Brazil&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 940 download events in this period)
+Total number of records downloaded: 2892
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Australia ; Times: 7
+	Country: Peru ; Times: 5
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 24
+	Country: Sweden ; Times: 6
+	Country: Colombia ; Times: 6
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 3
+	Date: 2020-07-20 ; Times: 2
+	Date: 2020-07-27 ; Times: 8
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-24 ; Times: 2
+	Date: 2020-07-03 ; Times: 4
+	Date: 2020-07-02 ; Times: 5
+	Date: 2020-07-04 ; Times: 2
+	Date: 2020-07-07 ; Times: 4
+	Date: 2020-07-06 ; Times: 9
+	Date: 2020-07-23 ; Times: 4
+	Date: 2020-07-29 ; Times: 2
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 8
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 3
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-22 ; Times: 2
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-16 ; Times: 2
+	Date: 2020-07-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "class:Amphibia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Clelia clelia" ; Times: 2
+	Query: "viperidae" ; Times: 1
+	Query: "genus:Euproctus" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "class:Amphibia country:&#34;Argentina&#34;" ; Times: 1
+	Query: "chironius carinatus" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "specificepithet:granulatus genus:Acrochordus hastissue:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "elapidae" ; Times: 1
+	Query: "eira barbara" ; Times: 1
+	Query: "lutra lutra" ; Times: 1
+	Query: "Plethodon vehiculum" ; Times: 1
+	Query: "rhinella marina" ; Times: 1
+	Query: "class:Amphibia country:&#34;Peru&#34;" ; Times: 2
+	Query: "estrilda astrild" ; Times: 1
+	Query: "Lamprophiidae" ; Times: 1
+	Query: "class:Amphibia country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Storeria dekayi" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:enyo genus:Crotalus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "family:Alcidae country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "rhinoderma darwinii" ; Times: 3
+	Query: "vultur" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "Acrochordus granulatus" ; Times: 1
+	Query: "Thecadactylus rapicauda" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Elachistocleis" ; Times: 1
+	Query: "class:Reptilia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Natricidae" ; Times: 1
+	Query: "genus:ochotona" ; Times: 2
+	Query: "class:Aves country:&#34;Uganda&#34; continent:Africa" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "Colubridae" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "order:Squamata stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:andersoni family:Salamandridae" ; Times: 1
+	Query: "Epigonus" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "Viperidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "alauda arvensis" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "class:Aves country:&#34;Iceland&#34; year &gt;= 1990 year &lt;= 2019" ; Times: 2
+	Query: "genus:Trachemys" ; Times: 1
+	Query: "Chelydra serpentina" ; Times: 1
+	Query: "coluber constrictor" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+
+
+End of report.
