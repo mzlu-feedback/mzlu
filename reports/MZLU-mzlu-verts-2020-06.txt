@@ -1,0 +1,200 @@
+Report for Institution Code MZLU, Resource mzlu-verts
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 350
+Number of records retrieved in searches: 6000
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United States ; Times: 51
+	Country: Italy ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 10
+	Country: United Kingdom ; Times: 261
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-14 ; Times: 1
+	Date: 2020-06-05 ; Times: 2
+	Date: 2020-06-26 ; Times: 4
+	Date: 2020-06-08 ; Times: 8
+	Date: 2020-06-09 ; Times: 7
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 13
+	Date: 2020-06-16 ; Times: 2
+	Date: 2020-06-02 ; Times: 15
+	Date: 2020-06-03 ; Times: 3
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-15 ; Times: 25
+	Date: 2020-06-29 ; Times: 3
+	Date: 2020-06-10 ; Times: 111
+	Date: 2020-06-11 ; Times: 96
+	Date: 2020-06-12 ; Times: 1
+	Date: 2020-06-17 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "Salmo salar" ; Times: 9
+	Query: "Zootoca vivipara" ; Times: 1
+	Query: "genus:trimeresurus country:indonesia" ; Times: 1
+	Query: "ambystoma mexicanum" ; Times: 1
+	Query: "acrocephalus arundinaceus" ; Times: 5
+	Query: "ophisurus serpens" ; Times: 1
+	Query: "Lampetra fluviatilis" ; Times: 3
+	Query: "Alburnus alburnus" ; Times: 9
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Falco columbarius aesalon" ; Times: 1
+	Query: "lipophrys pholis" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 2
+	Query: "periophthalmodon schlosseri" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 12
+	Query: "Abramis brama" ; Times: 6
+	Query: "Cheilopogon exsiliens" ; Times: 6
+	Query: "Takifugu pardalis" ; Times: 6
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "genus:Liophis country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "daboia russelli india" ; Times: 2
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "lampetra planeri" ; Times: 1
+	Query: "calyptura" ; Times: 3
+	Query: "genus:Acontias hastissue:1" ; Times: 1
+	Query: "Lagenorhynchus albirostris mappable:1" ; Times: 3
+	Query: "Coregonus oxyrinchus" ; Times: 6
+	Query: "Cottus gobio" ; Times: 6
+	Query: "genus:Chiroxiphia specificepithet:caudata" ; Times: 2
+	Query: "genus:Lerista hastissue:1" ; Times: 1
+	Query: "Pomatoschistus minutus" ; Times: 6
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "Anas penelope" ; Times: 6
+	Query: "genus:Cordylus hastissue:1" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "genus:Chamaesaura" ; Times: 1
+	Query: "vntype:specimen specificepithet:caerulescens genus:Sporophila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Scomber colias" ; Times: 6
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "Comephorus baikalensis" ; Times: 6
+	Query: "passer simplex" ; Times: 2
+	Query: "Sus scrofa" ; Times: 6
+	Query: "Hirundichthys rondeletii" ; Times: 6
+	Query: "Cairina moschata" ; Times: 3
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 4
+	Query: "Cheilopogon cyanopterus" ; Times: 6
+	Query: "Anabas testudineus" ; Times: 6
+	Query: "genus:Tantilla country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 5
+	Query: "Eleutheronema tetradactylum" ; Times: 9
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Clupea harengus" ; Times: 11
+	Query: "rhabdophis chrysargos" ; Times: 2
+	Query: "Anas falcata" ; Times: 6
+	Query: "Lacerta agilis germany" ; Times: 1
+	Query: "Comephorus dybowskii" ; Times: 6
+	Query: "genus:Monodactylus hastissue:1" ; Times: 1
+	Query: "xenochrophis maculatus" ; Times: 1
+	Query: "specificepithet:flagellum genus:Coluber stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "Alopochen aegyptiacus" ; Times: 6
+	Query: "oblada melanura" ; Times: 1
+	Query: "genus:Epictia" ; Times: 3
+	Query: "oligodon arnensis india" ; Times: 2
+	Query: "Leucaspius delineatus" ; Times: 6
+	Query: "Coregonus lavaretus" ; Times: 6
+	Query: "eryx conicus india" ; Times: 5
+	Query: "Hirundichthys speculiger" ; Times: 6
+	Query: "genus:Mastigodryas country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Chelon labrosus" ; Times: 6
+	Query: "Anas formosa" ; Times: 6
+	Query: "Oreochromis niloticus" ; Times: 12
+	Query: "specificepithet:platirhinos genus:Heterodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "Perca fluviatilis" ; Times: 6
+	Query: "Homo sapiens" ; Times: 18
+	Query: "genus:Breviceps hastissue:1" ; Times: 1
+	Query: "Pomatoschistus microps" ; Times: 6
+	Query: "Cottus poecilopus" ; Times: 6
+	Query: "genus:Scelotes hastissue:1" ; Times: 5
+	Query: "Coregonus albula" ; Times: 6
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "Scomber scombrus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "Atherina hepsetus" ; Times: 6
+	Query: "oligodon taeniolatus india" ; Times: 2
+	Query: "country:Ecuador scientificname:Didelphis marsupialis " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 474 download events in this period)
+Total number of records downloaded: 296
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 18
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-09 ; Times: 1
+	Date: 2020-06-06 ; Times: 1
+	Date: 2020-06-07 ; Times: 1
+	Date: 2020-06-04 ; Times: 4
+	Date: 2020-06-05 ; Times: 1
+	Date: 2020-06-02 ; Times: 3
+	Date: 2020-06-10 ; Times: 22
+	Date: 2020-06-01 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:heyi order:galliformes" ; Times: 1
+	Query: "specificepithet:superciliaris order:galliformes" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "Lithobates catesbeianus" ; Times: 1
+	Query: "Pyrrhura cruentata" ; Times: 1
+	Query: "specificepithet:atropurpurea genus:Xipholena" ; Times: 1
+	Query: "Xipholena atropurpurea" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "specificepithet:rubra genus:Piranga" ; Times: 1
+	Query: "specificepithet:rustica genus:Hirundo" ; Times: 1
+	Query: "Oxyura vittata" ; Times: 1
+	Query: "Pandion haliaetus" ; Times: 1
+	Query: "specificepithet:jacutinga order:galliformes" ; Times: 1
+	Query: "genus:Dipsas country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:vittata genus:Oxyura" ; Times: 1
+	Query: "Arenaria interpres" ; Times: 1
+	Query: "Lepidochelys olivacea" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "specificepithet:viridis genus:Tersina" ; Times: 1
+	Query: "specificepithet:truei genus:Ascaphus" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+	Query: "specificepithet:forficatus genus:Elanoides" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "Tersina viridis" ; Times: 1
+	Query: "specificepithet:chinensis genus:excalfactoria" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "specificepithet:interpres genus:Arenaria" ; Times: 1
+	Query: "calyptura" ; Times: 1
+	Query: "specificepithet:cruentata genus:Pyrrhura" ; Times: 1
+	Query: "Elaenia chilensis" ; Times: 1
+	Query: "specificepithet:javanica order:galliformes" ; Times: 1
+	Query: "Elanoides forficatus" ; Times: 2
+	Query: "Piranga rubra" ; Times: 1
+
+
+End of report.
